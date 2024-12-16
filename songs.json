@@ -1,0 +1,6224 @@
+{
+  "songs": [
+    {
+      "name": "All Is Known",
+      "performances": [
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 21,
+          "duration_ms": 249266,
+          "popularity": 9,
+          "uri": "spotify:track:3HKvsvUMnMkgIRe663Y3Vk"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 18,
+          "duration_ms": 252444,
+          "popularity": 12,
+          "uri": "spotify:track:1e5Ivlmz1rUBx0B33IzK2z"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 1,
+          "duration_ms": 319260,
+          "popularity": 13,
+          "uri": "spotify:track:30LTu3pCplRdjgmPETn6vu"
+        }
+      ]
+    },
+    {
+      "name": "Am I in Heaven?",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 6,
+          "duration_ms": 1007640,
+          "popularity": 16,
+          "uri": "spotify:track:3tcsCvX0Br5MqJPSLd3fvb"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 16,
+          "duration_ms": 568575,
+          "popularity": 10,
+          "uri": "spotify:track:1LktfcaDPEcwW4U9PwiMFf"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 24,
+          "duration_ms": 839813,
+          "popularity": 13,
+          "uri": "spotify:track:4apHMkcnHlTDUe2w1wMOEd"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 19,
+          "duration_ms": 955024,
+          "popularity": 10,
+          "uri": "spotify:track:3CDfMtMJUaPswlRu7Xl5LA"
+        }
+      ]
+    },
+    {
+      "name": "Ambergris",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 8,
+          "duration_ms": 435667,
+          "popularity": 11,
+          "uri": "spotify:track:2fDkDflqb2g1pD1pRavJHe"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 9,
+          "duration_ms": 461235,
+          "popularity": 11,
+          "uri": "spotify:track:7AHs3sdl65nBpPuluawqej"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 2,
+          "duration_ms": 331406,
+          "popularity": 14,
+          "uri": "spotify:track:1FEFtaZkVji9ayAB3AWDVc"
+        }
+      ]
+    },
+    {
+      "name": "Anoxia",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 3,
+          "duration_ms": 222568,
+          "popularity": 11,
+          "uri": "spotify:track:1DzEypNx9Ar0tHgP0Y4Zxn"
+        }
+      ]
+    },
+    {
+      "name": "Antarctica",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 3,
+          "duration_ms": 336712,
+          "popularity": 11,
+          "uri": "spotify:track:7w9O1cX4xOirFbm5mfKnlr"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 13,
+          "duration_ms": 500079,
+          "popularity": 14,
+          "uri": "spotify:track:45CE2zozlHwUIDwUjLNvP6"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 14,
+          "duration_ms": 377532,
+          "popularity": 11,
+          "uri": "spotify:track:4Yj4ywHx3nIjtS6v4OAF0d"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 7,
+          "duration_ms": 293793,
+          "popularity": 10,
+          "uri": "spotify:track:5Bhaklk3JSLAiCtXk1D3Il"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 5,
+          "duration_ms": 272729,
+          "popularity": 15,
+          "uri": "spotify:track:5S9hYWRyDMdBVVNSA7jQxB"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 13,
+          "duration_ms": 289414,
+          "popularity": 8,
+          "uri": "spotify:track:7ySx9QGvYs62e3DIrZ7GnH"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 16,
+          "duration_ms": 299976,
+          "popularity": 7,
+          "uri": "spotify:track:5QB3s0RL2jd8BwZoVkAKMT"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 8,
+          "duration_ms": 294437,
+          "popularity": 10,
+          "uri": "spotify:track:4piGHvXR4DDRiy5up79zpo"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 5,
+          "duration_ms": 438673,
+          "popularity": 11,
+          "uri": "spotify:track:0OfWUbRM0QqObtoBA8KG0d"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 7,
+          "duration_ms": 421025,
+          "popularity": 10,
+          "uri": "spotify:track:0PWnM0m9sgXZHv9kjGTCCx"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 3,
+          "duration_ms": 267558,
+          "popularity": 11,
+          "uri": "spotify:track:7J5okPv5uDPMW2RObUWUJl"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 8,
+          "duration_ms": 334511,
+          "popularity": 8,
+          "uri": "spotify:track:3tZbpUn57oy5AcNqHoKjt7"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 3,
+          "duration_ms": 277732,
+          "popularity": 10,
+          "uri": "spotify:track:7MlskwdSeouqtGAwhSaGRh"
+        }
+      ]
+    },
+    {
+      "name": "Astroturf",
+      "performances": [
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 10,
+          "duration_ms": 410975,
+          "popularity": 9,
+          "uri": "spotify:track:2pYNSFxr72brFrLbh3EDxB"
+        }
+      ]
+    },
+    {
+      "name": "Ataraxia",
+      "performances": [
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 11,
+          "duration_ms": 316782,
+          "popularity": 8,
+          "uri": "spotify:track:6xDqGooRixbGOlKteY7WrV"
+        }
+      ]
+    },
+    {
+      "name": "Automation",
+      "performances": [
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 18,
+          "duration_ms": 377670,
+          "popularity": 11,
+          "uri": "spotify:track:1J8IE1WX20sQTMx9HYKOJ3"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 8,
+          "duration_ms": 282256,
+          "popularity": 9,
+          "uri": "spotify:track:1EagZj8y2H9RLbikKRrAGr"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 10,
+          "duration_ms": 366487,
+          "popularity": 10,
+          "uri": "spotify:track:5ylfVcFgmroTK4afSFusTF"
+        }
+      ]
+    },
+    {
+      "name": "Big Fig Wasp",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 19,
+          "duration_ms": 271821,
+          "popularity": 11,
+          "uri": "spotify:track:0WTz0Dt3KYLVjJDK0rG8oM"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 2,
+          "duration_ms": 274258,
+          "popularity": 19,
+          "uri": "spotify:track:33mREAnThJjq2irj1KNLFn"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 16,
+          "duration_ms": 427552,
+          "popularity": 13,
+          "uri": "spotify:track:1pPO5VnSEALPMhGwtGzFqP"
+        }
+      ]
+    },
+    {
+      "name": "Billabong Valley",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 8,
+          "duration_ms": 449799,
+          "popularity": 12,
+          "uri": "spotify:track:2UQTO7RpWAwaLgmWZxq8zY"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 5,
+          "duration_ms": 415839,
+          "popularity": 13,
+          "uri": "spotify:track:46lBCwYdDWQqEzWWfcaS4a"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 17,
+          "duration_ms": 347863,
+          "popularity": 12,
+          "uri": "spotify:track:2vVxQgveKy0AI1P0x6EbVT"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 16,
+          "duration_ms": 525704,
+          "popularity": 8,
+          "uri": "spotify:track:1W2oJM2m0r0dAmkN8vyRtZ"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 15,
+          "duration_ms": 326306,
+          "popularity": 11,
+          "uri": "spotify:track:4FD4yOZmJG8EkCwQTlYcjm"
+        }
+      ]
+    },
+    {
+      "name": "Black Tooth",
+      "performances": [
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 14,
+          "duration_ms": 191232,
+          "popularity": 14,
+          "uri": "spotify:track:7eTIGTI9JIhJTuBBtiQ1Im"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 10,
+          "duration_ms": 188681,
+          "popularity": 12,
+          "uri": "spotify:track:3ANBVebfhEvuAH3t5wZu82"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 5,
+          "duration_ms": 208908,
+          "popularity": 13,
+          "uri": "spotify:track:1J1AldMJLEwK86aQkTjTWK"
+        }
+      ]
+    },
+    {
+      "name": "Boogieman Sam",
+      "performances": [
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 17,
+          "duration_ms": 765862,
+          "popularity": 15,
+          "uri": "spotify:track:7mtHKdO2k3VNLzIPI3owpW"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 15,
+          "duration_ms": 585969,
+          "popularity": 12,
+          "uri": "spotify:track:6saqp6duUPVsOaPEccOtcm"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 7,
+          "duration_ms": 651474,
+          "popularity": 14,
+          "uri": "spotify:track:6OrA9IE7gNiGyoivn7L3HF"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 2,
+          "duration_ms": 483792,
+          "popularity": 12,
+          "uri": "spotify:track:1b6zbo9btUtb4tUFQCQkU9"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 1,
+          "duration_ms": 560186,
+          "popularity": 13,
+          "uri": "spotify:track:0WlhlPGWth4lxjUvWlafBS"
+        }
+      ]
+    },
+    {
+      "name": "Cellophane",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 5,
+          "duration_ms": 216730,
+          "popularity": 23,
+          "uri": "spotify:track:07HTmgVYmEgbRMaI4ZcmOo"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 11,
+          "duration_ms": 337598,
+          "popularity": 13,
+          "uri": "spotify:track:0teoHhdtvYAtdnTThzDNZA"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 3,
+          "duration_ms": 218862,
+          "popularity": 10,
+          "uri": "spotify:track:6bqjrGy0ZOvOD2OjtgqCHo"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 6,
+          "duration_ms": 294507,
+          "popularity": 10,
+          "uri": "spotify:track:0Vc9zrsM4WXnt1axijAa4Q"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 13,
+          "duration_ms": 366918,
+          "popularity": 10,
+          "uri": "spotify:track:1PNOpQd3JtS7xqburw9tNJ"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 9,
+          "duration_ms": 207251,
+          "popularity": 11,
+          "uri": "spotify:track:5p6BkXnBIVVntfii60K1dr"
+        }
+      ]
+    },
+    {
+      "name": "Chang'e",
+      "performances": [
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 4,
+          "duration_ms": 613044,
+          "popularity": 16,
+          "uri": "spotify:track:7EFTd29CbsVH3muUEsdfQ0"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 2,
+          "duration_ms": 392295,
+          "popularity": 21,
+          "uri": "spotify:track:6BHy9HIvCWqkol1FBJf5RV"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 14,
+          "duration_ms": 472221,
+          "popularity": 9,
+          "uri": "spotify:track:3Eu1bkRFWgoNjZCe71JQJu"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 8,
+          "duration_ms": 598408,
+          "popularity": 9,
+          "uri": "spotify:track:0Z7VbL4wOnDSP0jEsYE2qX"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 17,
+          "duration_ms": 705785,
+          "popularity": 9,
+          "uri": "spotify:track:2MFGXIVzfM9wh7FWRSnYp6"
+        }
+      ]
+    },
+    {
+      "name": "Change",
+      "performances": [
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 2,
+          "duration_ms": 410156,
+          "popularity": 11,
+          "uri": "spotify:track:0Jxt0CZ73HrFLg1qYPi5kf"
+        }
+      ]
+    },
+    {
+      "name": "Converge",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 13,
+          "duration_ms": 423889,
+          "popularity": 10,
+          "uri": "spotify:track:4wpgqkuNJ0rz7PyxhR7JAC"
+        },
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 2,
+          "duration_ms": 403883,
+          "popularity": 8,
+          "uri": "spotify:track:450uN9gscHYIcScp9UnJsG"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 18,
+          "duration_ms": 402198,
+          "popularity": 9,
+          "uri": "spotify:track:37OcLr8FDzLO13RZeKZp8i"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 16,
+          "duration_ms": 392630,
+          "popularity": 7,
+          "uri": "spotify:track:6cxIIErlipG0JJSDfEVbKa"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 11,
+          "duration_ms": 400453,
+          "popularity": 14,
+          "uri": "spotify:track:5pjMPlXJedFoUauZCgNRKi"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 10,
+          "duration_ms": 370371,
+          "popularity": 11,
+          "uri": "spotify:track:049La01LbyFDjGbd2hD2QY"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 11,
+          "duration_ms": 383668,
+          "popularity": 8,
+          "uri": "spotify:track:16FeWNBig6bux1F2hixLwt"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 8,
+          "duration_ms": 380473,
+          "popularity": 10,
+          "uri": "spotify:track:6Xf5uwsZSRG2qjCEO5oTUx"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 6,
+          "duration_ms": 380700,
+          "popularity": 12,
+          "uri": "spotify:track:6BXiniViNwI2URSWZ5VNMk"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 3,
+          "duration_ms": 376427,
+          "popularity": 11,
+          "uri": "spotify:track:2JYeYLjvMLlozEHTSOnVCK"
+        }
+      ]
+    },
+    {
+      "name": "Crumbling Castle",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 7,
+          "duration_ms": 613212,
+          "popularity": 9,
+          "uri": "spotify:track:6N3sQNfXVdO5fXtsDQnVkd"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 7,
+          "duration_ms": 787381,
+          "popularity": 18,
+          "uri": "spotify:track:4VZFO7VSTMZf6iRihhAYcz"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 5,
+          "duration_ms": 585108,
+          "popularity": 12,
+          "uri": "spotify:track:5fCKeWy6YAh4EkRO04gEEQ"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 12,
+          "duration_ms": 580004,
+          "popularity": 16,
+          "uri": "spotify:track:4bt50bapKr2izkPkz4FhQN"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 16,
+          "duration_ms": 699286,
+          "popularity": 10,
+          "uri": "spotify:track:0mxTEE8qE1zP8o34HZYq3K"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 9,
+          "duration_ms": 679494,
+          "popularity": 10,
+          "uri": "spotify:track:5BBpOYNquWXiVLnWz8x4ik"
+        }
+      ]
+    },
+    {
+      "name": "Cut Throat Boogie",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 9,
+          "duration_ms": 446950,
+          "popularity": 20,
+          "uri": "spotify:track:20PcKcHkgivTptgNvmnheh"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 3,
+          "duration_ms": 366456,
+          "popularity": 15,
+          "uri": "spotify:track:7rCDlls7Pa7Jp5plo0KbK2"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 9,
+          "duration_ms": 316660,
+          "popularity": 16,
+          "uri": "spotify:track:0Y9Wzf0h8ihWK9UjaO3dXO"
+        }
+      ]
+    },
+    {
+      "name": "Daily Blues",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 13,
+          "duration_ms": 487491,
+          "popularity": 7,
+          "uri": "spotify:track:2rysb2y90y3ItzZv9S9CJO"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 6,
+          "duration_ms": 480737,
+          "popularity": 5,
+          "uri": "spotify:track:6e0ItiDhQSTYS88HHANLA1"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 10,
+          "duration_ms": 589338,
+          "popularity": 8,
+          "uri": "spotify:track:67ayE4XIG8oowxuXjQ0v1W"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 8,
+          "duration_ms": 490692,
+          "popularity": 21,
+          "uri": "spotify:track:2EGCyXQNKqlLwZ2Llz5uVu"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 17,
+          "duration_ms": 525849,
+          "popularity": 11,
+          "uri": "spotify:track:1voKwt0DVE7uDPVaE6PmTk"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 1,
+          "duration_ms": 560803,
+          "popularity": 12,
+          "uri": "spotify:track:2kRWLvgwgY94eJ61RtOMGx"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 2,
+          "duration_ms": 510150,
+          "popularity": 15,
+          "uri": "spotify:track:0eLeLG3qMQ8WdDuBsVXzmt"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 3,
+          "duration_ms": 605452,
+          "popularity": 12,
+          "uri": "spotify:track:6MiMFdKMPdB2YCEGvYVDHJ"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 16,
+          "duration_ms": 475408,
+          "popularity": 8,
+          "uri": "spotify:track:2vEUvXAEoFZiUAJzKU54m2"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 8,
+          "duration_ms": 527828,
+          "popularity": 16,
+          "uri": "spotify:track:5INgbL6EZBttbA8unnd8Sa"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 5,
+          "duration_ms": 476077,
+          "popularity": 11,
+          "uri": "spotify:track:5Iqddpp88FfOlk0cczojQP"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 5,
+          "duration_ms": 496159,
+          "popularity": 11,
+          "uri": "spotify:track:73Np14WL27yYi1gBjaq64t"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 10,
+          "duration_ms": 517117,
+          "popularity": 8,
+          "uri": "spotify:track:5uk5Ty6lpFAlJRbEQ3l1sn"
+        }
+      ]
+    },
+    {
+      "name": "Digital Black",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 2,
+          "duration_ms": 163156,
+          "popularity": 8,
+          "uri": "spotify:track:5weqMaQN9LMFIm9qECnD2a"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 19,
+          "duration_ms": 170250,
+          "popularity": 12,
+          "uri": "spotify:track:0xCWXpbi43TWKSCDslhkSM"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 21,
+          "duration_ms": 167162,
+          "popularity": 14,
+          "uri": "spotify:track:2E5eG9Tpv491BlN7H06cCl"
+        }
+      ]
+    },
+    {
+      "name": "Dirt",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 6,
+          "duration_ms": 358888,
+          "popularity": 7,
+          "uri": "spotify:track:5BEc4Vs4DsKdXNW8nySucQ"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 8,
+          "duration_ms": 218809,
+          "popularity": 18,
+          "uri": "spotify:track:3Z719mtP50rSP7clClth75"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 14,
+          "duration_ms": 321931,
+          "popularity": 11,
+          "uri": "spotify:track:2USnOxG51bHcxu88dnG8Gw"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 13,
+          "duration_ms": 223605,
+          "popularity": 18,
+          "uri": "spotify:track:4OkwdrlY1R92lHn0YuL5pM"
+        }
+      ]
+    },
+    {
+      "name": "Doom City",
+      "performances": [
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 22,
+          "duration_ms": 452041,
+          "popularity": 11,
+          "uri": "spotify:track:3S0XU2mbmirEORVN9trs7R"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 1,
+          "duration_ms": 261276,
+          "popularity": 11,
+          "uri": "spotify:track:6fkJ7VT0B3h2YSHJptZnOn"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 2,
+          "duration_ms": 235895,
+          "popularity": 11,
+          "uri": "spotify:track:08fJHutUozFfRIzrpO0Vd2"
+        }
+      ]
+    },
+    {
+      "name": "Dragon",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 15,
+          "duration_ms": 656182,
+          "popularity": 11,
+          "uri": "spotify:track:6tLFZDOPU1dO9kgA0Ej110"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 3,
+          "duration_ms": 663747,
+          "popularity": 8,
+          "uri": "spotify:track:03J8TOozvLLS0lXc9d0Yoy"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 21,
+          "duration_ms": 735626,
+          "popularity": 9,
+          "uri": "spotify:track:0W3QY8HnIMoJh3ULsDkvk7"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 18,
+          "duration_ms": 646458,
+          "popularity": 6,
+          "uri": "spotify:track:5ff8PMuGhP7UEkxsa4etKh"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 8,
+          "duration_ms": 594852,
+          "popularity": 13,
+          "uri": "spotify:track:7dH82wfusxoftFR2lP9Zkg"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 10,
+          "duration_ms": 697794,
+          "popularity": 12,
+          "uri": "spotify:track:4Y3ulPERqtPvUvjXgoAk0b"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 13,
+          "duration_ms": 616182,
+          "popularity": 15,
+          "uri": "spotify:track:5cBi5sHjt6I50nuAogkguY"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 7,
+          "duration_ms": 607262,
+          "popularity": 12,
+          "uri": "spotify:track:5RBeGdqu2HPl84YFT88XLN"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 5,
+          "duration_ms": 661945,
+          "popularity": 10,
+          "uri": "spotify:track:1VB2TzW3l77WXZsmuo6IgA"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 16,
+          "duration_ms": 647158,
+          "popularity": 15,
+          "uri": "spotify:track:4JKfUSXrNNe4iyayWFUbKl"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 16,
+          "duration_ms": 623403,
+          "popularity": 10,
+          "uri": "spotify:track:0ZuuwMY8Miq9McjtNgNzoM"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 17,
+          "duration_ms": 593755,
+          "popularity": 12,
+          "uri": "spotify:track:1o67U4f00s9QcsLAYpthl2"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 6,
+          "duration_ms": 642815,
+          "popularity": 11,
+          "uri": "spotify:track:39kajPq1WRHoRxBDNcw5nr"
+        }
+      ]
+    },
+    {
+      "name": "East West Link",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 2,
+          "duration_ms": 228880,
+          "popularity": 12,
+          "uri": "spotify:track:0FXNB07G02CELPyrHVjv6Q"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 4,
+          "duration_ms": 278668,
+          "popularity": 12,
+          "uri": "spotify:track:3TCfs2QmmEoNI3a9q1nWzE"
+        }
+      ]
+    },
+    {
+      "name": "Elbow",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 6,
+          "duration_ms": 192169,
+          "popularity": 13,
+          "uri": "spotify:track:78D9DJ5GtanDV4bnb5Be3K"
+        }
+      ]
+    },
+    {
+      "name": "Evil Death Roll",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 4,
+          "duration_ms": 612519,
+          "popularity": 13,
+          "uri": "spotify:track:5USz3afzm5GlY7HpPmWhit"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 1,
+          "duration_ms": 868987,
+          "popularity": 9,
+          "uri": "spotify:track:3OmCZ36Sy5wH2XH9vPuNed"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 1,
+          "duration_ms": 776877,
+          "popularity": 12,
+          "uri": "spotify:track:2UfPjIs1iwQD9xUxUUXiWH"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 4,
+          "duration_ms": 866383,
+          "popularity": 10,
+          "uri": "spotify:track:3GCRWbq1SHMiG1R5nP4qlG"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 6,
+          "duration_ms": 717631,
+          "popularity": 11,
+          "uri": "spotify:track:2oiznwlkNAWwGtxWemTDsI"
+        }
+      ]
+    },
+    {
+      "name": "Extinction",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 10,
+          "duration_ms": 478016,
+          "popularity": 10,
+          "uri": "spotify:track:2BkoKi3HuejJYGLvIvJiXO"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 9,
+          "duration_ms": 577516,
+          "popularity": 7,
+          "uri": "spotify:track:7pJcrCG5ovIRoinBNoX1g5"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 12,
+          "duration_ms": 433495,
+          "popularity": 9,
+          "uri": "spotify:track:1FWygHNu32VPjv0IsIYWNU"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 7,
+          "duration_ms": 973562,
+          "popularity": 15,
+          "uri": "spotify:track:2xsPkYYoYAcxw25vfMcVSb"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 15,
+          "duration_ms": 786854,
+          "popularity": 10,
+          "uri": "spotify:track:2Jh5dtL4kFfmtwJtZhc9yN"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 21,
+          "duration_ms": 558350,
+          "popularity": 18,
+          "uri": "spotify:track:4TlOTOFxUkKpLxne83liTL"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 9,
+          "duration_ms": 876328,
+          "popularity": 9,
+          "uri": "spotify:track:3pduUIa7swra9bCMe8qtlw"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 18,
+          "duration_ms": 653263,
+          "popularity": 9,
+          "uri": "spotify:track:25jcf5glrrK7HUdM2EixcC"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 1,
+          "duration_ms": 720251,
+          "popularity": 10,
+          "uri": "spotify:track:42oRuhKPyKGYARzaLGBLX0"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 15,
+          "duration_ms": 861644,
+          "popularity": 9,
+          "uri": "spotify:track:1AgAYagzMpKvyYCSl9E2mo"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 3,
+          "duration_ms": 773958,
+          "popularity": 10,
+          "uri": "spotify:track:5DUBOJALZkLqHNZmgO0ya4"
+        }
+      ]
+    },
+    {
+      "name": "Field of Vision",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 1,
+          "duration_ms": 297927,
+          "popularity": 14,
+          "uri": "spotify:track:2kSXKh8zJs9UuKKk3Rz7lh"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 12,
+          "duration_ms": 203195,
+          "popularity": 7,
+          "uri": "spotify:track:1GU8MeheeK19HIf6zdyZtX"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 2,
+          "duration_ms": 215727,
+          "popularity": 11,
+          "uri": "spotify:track:22S60v46NG70A0j4pJabgk"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 11,
+          "duration_ms": 227521,
+          "popularity": 6,
+          "uri": "spotify:track:5Gl0mcrGuFZyA2l9sK7dB1"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 15,
+          "duration_ms": 220022,
+          "popularity": 18,
+          "uri": "spotify:track:1IPraftC6qLYwG2ilCuFkw"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 16,
+          "duration_ms": 304043,
+          "popularity": 10,
+          "uri": "spotify:track:6qWxeNNgQTBOVNHeyxWCk0"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 17,
+          "duration_ms": 265021,
+          "popularity": 10,
+          "uri": "spotify:track:15obqC1JtpDZpSq0X5d1cS"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 1,
+          "duration_ms": 336391,
+          "popularity": 13,
+          "uri": "spotify:track:1ICp37QDAy76U5mbiiTopv"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 16,
+          "duration_ms": 309974,
+          "popularity": 9,
+          "uri": "spotify:track:6QalEJxOueNFLsx660MzJE"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 13,
+          "duration_ms": 213567,
+          "popularity": 8,
+          "uri": "spotify:track:007QPce0pmubUI7RwPdJcA"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 2,
+          "duration_ms": 205347,
+          "popularity": 9,
+          "uri": "spotify:track:4UAfmGT8DHwigpj33UZnXM"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 2,
+          "duration_ms": 258957,
+          "popularity": 11,
+          "uri": "spotify:track:23McOtHWs8qQa3PJKxqz42"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 9,
+          "duration_ms": 263869,
+          "popularity": 9,
+          "uri": "spotify:track:0lZT7RjH98AbDygUIYSJNG"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 13,
+          "duration_ms": 213938,
+          "popularity": 12,
+          "uri": "spotify:track:7uezWxpKA26mQQ2znhvFg4"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 9,
+          "duration_ms": 206806,
+          "popularity": 9,
+          "uri": "spotify:track:3xaxOtBFpbhyNc42nfEjTX"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 11,
+          "duration_ms": 281346,
+          "popularity": 8,
+          "uri": "spotify:track:07v0tlIxRSyS7Pouz9WAsc"
+        }
+      ]
+    },
+    {
+      "name": "Flamethrower",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 10,
+          "duration_ms": 371209,
+          "popularity": 8,
+          "uri": "spotify:track:1l6SVXpBH2reua0b9BbMBB"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 15,
+          "duration_ms": 437069,
+          "popularity": 6,
+          "uri": "spotify:track:6AF73jcpa8H2gu9UuuJZfA"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 16,
+          "duration_ms": 329615,
+          "popularity": 4,
+          "uri": "spotify:track:09Ui6VrOUvuCzcF7CerZ5t"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 4,
+          "duration_ms": 390947,
+          "popularity": 17,
+          "uri": "spotify:track:7A9ox8p229a2nNFWhCUlmC"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 9,
+          "duration_ms": 314803,
+          "popularity": 11,
+          "uri": "spotify:track:6NVXg4JusUDeDKT0xAmTgc"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 4,
+          "duration_ms": 264217,
+          "popularity": 12,
+          "uri": "spotify:track:1KENixfgZJZKWhjPKLa1eX"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 18,
+          "duration_ms": 418426,
+          "popularity": 12,
+          "uri": "spotify:track:3M9KMHUTs4KK8iAR8W22Q5"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 8,
+          "duration_ms": 282631,
+          "popularity": 10,
+          "uri": "spotify:track:4T6R6O643NEBy40c6TtZsZ"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 4,
+          "duration_ms": 282495,
+          "popularity": 10,
+          "uri": "spotify:track:6Z03NkNUMklzvp8gCWYNll"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 17,
+          "duration_ms": 332971,
+          "popularity": 14,
+          "uri": "spotify:track:2t2xY6yBwTLsl3oVICpuZi"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 17,
+          "duration_ms": 305105,
+          "popularity": 9,
+          "uri": "spotify:track:6iobiwVq6WlTSnzOY1Nmly"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 16,
+          "duration_ms": 376593,
+          "popularity": 11,
+          "uri": "spotify:track:1TrcOMQEKAf3S028tgJ5BP"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 4,
+          "duration_ms": 338369,
+          "popularity": 11,
+          "uri": "spotify:track:58vB1gUPVzqPZcqsKecV0p"
+        }
+      ]
+    },
+    {
+      "name": "Flight B741",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 9,
+          "duration_ms": 236848,
+          "popularity": 7,
+          "uri": "spotify:track:1xpLoY0Gy3eDigtQkuqCa9"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 6,
+          "duration_ms": 244676,
+          "popularity": 10,
+          "uri": "spotify:track:4MSDRhgWn9cc6MudZQNcoG"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 7,
+          "duration_ms": 236782,
+          "popularity": 8,
+          "uri": "spotify:track:2fwnJmcoMl1TVhnQHmnIvY"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 9,
+          "duration_ms": 377952,
+          "popularity": 19,
+          "uri": "spotify:track:2QRLRAp1uNybtdlLL5J4Hg"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 14,
+          "duration_ms": 349840,
+          "popularity": 9,
+          "uri": "spotify:track:4ZtTw2MHMkaiJJEYIu5fNQ"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 11,
+          "duration_ms": 222034,
+          "popularity": 22,
+          "uri": "spotify:track:6QRMF59X7eGbFHWQPKnlGw"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 11,
+          "duration_ms": 303349,
+          "popularity": 10,
+          "uri": "spotify:track:2TvH5R0PcaKbYGzJuDoIn7"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 6,
+          "duration_ms": 327534,
+          "popularity": 10,
+          "uri": "spotify:track:1lLMsdN3PL5BNa2MEanddC"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 15,
+          "duration_ms": 256346,
+          "popularity": 11,
+          "uri": "spotify:track:39j02q06otXTnMaEWuEEF9"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 5,
+          "duration_ms": 436766,
+          "popularity": 12,
+          "uri": "spotify:track:0YLkd1Xx6eDHcffovc2XZ0"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 12,
+          "duration_ms": 304688,
+          "popularity": 8,
+          "uri": "spotify:track:7kaRYNqJTBGESjyNd7VcKm"
+        }
+      ]
+    },
+    {
+      "name": "Float Along - Fill Your Lungs",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 6,
+          "duration_ms": 757554,
+          "popularity": 14,
+          "uri": "spotify:track:14hBBm6DOg7jIxPhdabaZH"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 16,
+          "duration_ms": 739349,
+          "popularity": 6,
+          "uri": "spotify:track:4ESkeQrkQNdrsFbKJKZkHe"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 19,
+          "duration_ms": 643951,
+          "popularity": 11,
+          "uri": "spotify:track:187zysDcuGIUPQxCDdVXcx"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 16,
+          "duration_ms": 852649,
+          "popularity": 13,
+          "uri": "spotify:track:7ylIt7l96UDf51ABjmsekx"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 17,
+          "duration_ms": 901538,
+          "popularity": 12,
+          "uri": "spotify:track:1azeSSMuRm3OodDGX9McPm"
+        }
+      ]
+    },
+    {
+      "name": "Gaia",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 9,
+          "duration_ms": 357970,
+          "popularity": 8,
+          "uri": "spotify:track:4HqHWWn19SH9kukeTiWsUY"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 14,
+          "duration_ms": 520732,
+          "popularity": 6,
+          "uri": "spotify:track:2aW8Aq7f8D08nRMNbe6Dhv"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 1,
+          "duration_ms": 347942,
+          "popularity": 19,
+          "uri": "spotify:track:2INGWSXM9R8veW0YX512CD"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 27,
+          "duration_ms": 499779,
+          "popularity": 17,
+          "uri": "spotify:track:1Qm8e6RjAHlSPaMgy40sht"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 13,
+          "duration_ms": 710352,
+          "popularity": 9,
+          "uri": "spotify:track:5b0KqUPcOiQtImMoL1UxHw"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 15,
+          "duration_ms": 140027,
+          "popularity": 7,
+          "uri": "spotify:track:3hDyg9Si3bAcdauzhAdI4m"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 7,
+          "duration_ms": 479538,
+          "popularity": 10,
+          "uri": "spotify:track:6y3iRVGaw3qsitibUFC8nf"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 5,
+          "duration_ms": 698994,
+          "popularity": 13,
+          "uri": "spotify:track:6bhkxytomw9kgJaHOtdo01"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 3,
+          "duration_ms": 502735,
+          "popularity": 11,
+          "uri": "spotify:track:5IkxQeHxal8K2hDBIyQxp4"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 14,
+          "duration_ms": 746403,
+          "popularity": 8,
+          "uri": "spotify:track:0Wt3iLXtcVSGIf0zlUT8q4"
+        }
+      ]
+    },
+    {
+      "name": "Gamma Knife",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 17,
+          "duration_ms": 344554,
+          "popularity": 6,
+          "uri": "spotify:track:6JG7nFRBXU1HfEAv1XPi9f"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 2,
+          "duration_ms": 439557,
+          "popularity": 7,
+          "uri": "spotify:track:6NYmxlsNHKtnE5kflVHpuI"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 20,
+          "duration_ms": 213409,
+          "popularity": 10,
+          "uri": "spotify:track:5iGshRe17rO6L1IKEtTrkh"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 4,
+          "duration_ms": 347762,
+          "popularity": 14,
+          "uri": "spotify:track:6aJ7zdQxNlQrHpJrXgo69l"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 19,
+          "duration_ms": 308856,
+          "popularity": 8,
+          "uri": "spotify:track:7hDKAedKyM62dKajrsHR1r"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 3,
+          "duration_ms": 285609,
+          "popularity": 19,
+          "uri": "spotify:track:1TF0vRogzNHgXIG0yfXzqv"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 17,
+          "duration_ms": 258217,
+          "popularity": 11,
+          "uri": "spotify:track:65tDC7GuJ1DyixT5vXCY8V"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 13,
+          "duration_ms": 390002,
+          "popularity": 9,
+          "uri": "spotify:track:3JD3kvPrnf7dwQO3ARKRHm"
+        }
+      ]
+    },
+    {
+      "name": "Gila Monster",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 16,
+          "duration_ms": 376176,
+          "popularity": 10,
+          "uri": "spotify:track:4b06XwSg9031SD96A8p3VM"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 1,
+          "duration_ms": 386504,
+          "popularity": 9,
+          "uri": "spotify:track:6hLGC2sM7rpjKUyJaj3NMa"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 20,
+          "duration_ms": 311956,
+          "popularity": 8,
+          "uri": "spotify:track:0PKBGtRft47XwsgvwW3g3V"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 2,
+          "duration_ms": 332094,
+          "popularity": 19,
+          "uri": "spotify:track:53Dpx08CAGKuqeJkC1q5IQ"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 9,
+          "duration_ms": 335705,
+          "popularity": 13,
+          "uri": "spotify:track:7KWnqpmj4b3I6GeGrQ88uV"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 17,
+          "duration_ms": 306099,
+          "popularity": 13,
+          "uri": "spotify:track:1jrVsaRzAkmq4Lxucd33Co"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 14,
+          "duration_ms": 274735,
+          "popularity": 9,
+          "uri": "spotify:track:6WMCUv9IYnESbAx2qYAWrS"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 14,
+          "duration_ms": 271787,
+          "popularity": 11,
+          "uri": "spotify:track:6AU16FIcuqNN5hMKYWMcZp"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 13,
+          "duration_ms": 314936,
+          "popularity": 9,
+          "uri": "spotify:track:6QREXeca0GNNPJkuFvKbNm"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 18,
+          "duration_ms": 359426,
+          "popularity": 11,
+          "uri": "spotify:track:0iENbL7mwaoYJEOph99UQb"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 8,
+          "duration_ms": 345967,
+          "popularity": 9,
+          "uri": "spotify:track:6IevjMcaGpFIJikCvPiHPD"
+        }
+      ]
+    },
+    {
+      "name": "Gilgamesh",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 9,
+          "duration_ms": 674668,
+          "popularity": 11,
+          "uri": "spotify:track:0HA09z8fXUQcxVJi9y2bVm"
+        },
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 16,
+          "duration_ms": 559802,
+          "popularity": 8,
+          "uri": "spotify:track:4VjZ5TXs6Vs4utgnUZ41wx"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 15,
+          "duration_ms": 595821,
+          "popularity": 4,
+          "uri": "spotify:track:5alS5Qvg2DEzFomCaAv1p5"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 5,
+          "duration_ms": 706290,
+          "popularity": 17,
+          "uri": "spotify:track:4qRRij4NzySaXClGUsqGKn"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 17,
+          "duration_ms": 505174,
+          "popularity": 10,
+          "uri": "spotify:track:55Ss0ui3EwFAPQDwHW4w68"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 8,
+          "duration_ms": 704251,
+          "popularity": 10,
+          "uri": "spotify:track:2wNbURrbJyHSpiZxsSir1B"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 15,
+          "duration_ms": 555573,
+          "popularity": 10,
+          "uri": "spotify:track:4v3hLZQbRYY0Py5iBF0wde"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 18,
+          "duration_ms": 468676,
+          "popularity": 10,
+          "uri": "spotify:track:62xMl2wTG7LApBDUSmY8bT"
+        }
+      ]
+    },
+    {
+      "name": "God Is Calling Me Back Home",
+      "performances": [
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 13,
+          "duration_ms": 331648,
+          "popularity": 19,
+          "uri": "spotify:track:39loM5sn1PaOuEhVbvq5Gw"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 12,
+          "duration_ms": 231579,
+          "popularity": 13,
+          "uri": "spotify:track:2EkuotMUGa8OzRlR8rKiyH"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 5,
+          "duration_ms": 333242,
+          "popularity": 10,
+          "uri": "spotify:track:075SL2FUr7qgKwYPE6GNoP"
+        }
+      ]
+    },
+    {
+      "name": "Gondii",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 12,
+          "duration_ms": 735528,
+          "popularity": 20,
+          "uri": "spotify:track:6VTIxaMspdTcDZqAT7awTn"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 13,
+          "duration_ms": 575949,
+          "popularity": 10,
+          "uri": "spotify:track:4jJf3ZzyxqRjZP54yixZzR"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 19,
+          "duration_ms": 458507,
+          "popularity": 19,
+          "uri": "spotify:track:2StAzMWeaf0nKRYMd7Y7PG"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 11,
+          "duration_ms": 737465,
+          "popularity": 9,
+          "uri": "spotify:track:2P7fR9IDNr6RiZ5kn74RRb"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 1,
+          "duration_ms": 673346,
+          "popularity": 11,
+          "uri": "spotify:track:6v7me3Xyzdjk4FDOfR0Wo6"
+        }
+      ]
+    },
+    {
+      "name": "Grim Reaper",
+      "performances": [
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 4,
+          "duration_ms": 523149,
+          "popularity": 13,
+          "uri": "spotify:track:3PUtPXOu8n0Hm8DYwM2EVC"
+        }
+      ]
+    },
+    {
+      "name": "Grow Wings and Fly...",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 11,
+          "duration_ms": 435243,
+          "popularity": 10,
+          "uri": "spotify:track:0PZXQv14jcR1OW9wlAQ8dH"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 15,
+          "duration_ms": 466738,
+          "popularity": 14,
+          "uri": "spotify:track:7vzI67dY4qybUSVpkvQE0O"
+        }
+      ]
+    },
+    {
+      "name": "Han-Tyumi, the Confused Cyborg",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 3,
+          "duration_ms": 173776,
+          "popularity": 8,
+          "uri": "spotify:track:7MosiWbsggId9GwybKAk6u"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 20,
+          "duration_ms": 159611,
+          "popularity": 11,
+          "uri": "spotify:track:38EeNL2Oh9kSb5OZVtbfdk"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 22,
+          "duration_ms": 141305,
+          "popularity": 14,
+          "uri": "spotify:track:4j4YUsFDezAGSJXCepMdZO"
+        }
+      ]
+    },
+    {
+      "name": "Head On/Pill",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 1,
+          "duration_ms": 1758818,
+          "popularity": 15,
+          "uri": "spotify:track:4QPvCYWCUIzFfNukrXjrRg"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 28,
+          "duration_ms": 1019393,
+          "popularity": 16,
+          "uri": "spotify:track:7DAteH8MxYwmkjF3mKUP0m"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 14,
+          "duration_ms": 911949,
+          "popularity": 10,
+          "uri": "spotify:track:5EHygKzlQG607RDBy8Vkbd"
+        }
+      ]
+    },
+    {
+      "name": "Hell",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 14,
+          "duration_ms": 281916,
+          "popularity": 11,
+          "uri": "spotify:track:7bg6mrAocsIrYGGyHgTjzd"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 4,
+          "duration_ms": 209986,
+          "popularity": 7,
+          "uri": "spotify:track:7aismMYRUGg05S2MbiMFsI"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 3,
+          "duration_ms": 260140,
+          "popularity": 14,
+          "uri": "spotify:track:525n2ecTIxzF6DrjD0zFVn"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 14,
+          "duration_ms": 206156,
+          "popularity": 16,
+          "uri": "spotify:track:0wO1YOtHQ11trPBf7FZTIT"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 11,
+          "duration_ms": 203387,
+          "popularity": 9,
+          "uri": "spotify:track:0ozjX3hfwaQgornM7UhoMH"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 7,
+          "duration_ms": 262055,
+          "popularity": 9,
+          "uri": "spotify:track:3AfXXGWhf8McJLuVIf1Mjs"
+        }
+      ]
+    },
+    {
+      "name": "Her and I (Slow Jam 2)",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 6,
+          "duration_ms": 1139833,
+          "popularity": 12,
+          "uri": "spotify:track:58HefZKmyPIb3S9VwZ06Us"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 18,
+          "duration_ms": 635119,
+          "popularity": 11,
+          "uri": "spotify:track:2CyEOxx8PNMLxPsMETtLwM"
+        }
+      ]
+    },
+    {
+      "name": "Hog Calling Contest",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 8,
+          "duration_ms": 291412,
+          "popularity": 8,
+          "uri": "spotify:track:5ecLMjKSjbWg7KTHIAiEWV"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 14,
+          "duration_ms": 307373,
+          "popularity": 18,
+          "uri": "spotify:track:1uawLl5bOYK7sbL4V0YirI"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 5,
+          "duration_ms": 299213,
+          "popularity": 11,
+          "uri": "spotify:track:2ajnzXR35J7vPkk7nRjiCe"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 9,
+          "duration_ms": 192504,
+          "popularity": 24,
+          "uri": "spotify:track:1rRCR349K2PTa7huIHkwys"
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "performances": [
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 17,
+          "duration_ms": 274061,
+          "popularity": 7,
+          "uri": "spotify:track:1Od4nOP9WwMTHLlryu1SRl"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 12,
+          "duration_ms": 437030,
+          "popularity": 10,
+          "uri": "spotify:track:3jv8rJbUEu4dphRetgi8dp"
+        }
+      ]
+    },
+    {
+      "name": "Horology",
+      "performances": [
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 7,
+          "duration_ms": 209137,
+          "popularity": 6,
+          "uri": "spotify:track:0eq1y5otqRsmTRRmCII8wG"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 5,
+          "duration_ms": 196623,
+          "popularity": 19,
+          "uri": "spotify:track:3afot30DQw2KYjCfxlWOK3"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 24,
+          "duration_ms": 271255,
+          "popularity": 17,
+          "uri": "spotify:track:1RHKztNPdtoYnqKqC5bZaq"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 13,
+          "duration_ms": 210428,
+          "popularity": 8,
+          "uri": "spotify:track:6BuD9sk6PhXOZmAJafeIbq"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 11,
+          "duration_ms": 255521,
+          "popularity": 10,
+          "uri": "spotify:track:5JfOaZEafHzHLAeXjMhcq6"
+        }
+      ]
+    },
+    {
+      "name": "Hot Water",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 5,
+          "duration_ms": 505857,
+          "popularity": 12,
+          "uri": "spotify:track:1DyNYH8TMZ2YNfJqdLjMrJ"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 1,
+          "duration_ms": 604447,
+          "popularity": 8,
+          "uri": "spotify:track:0XLwKyaXLuXWOc1JiRcyA5"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 11,
+          "duration_ms": 448563,
+          "popularity": 8,
+          "uri": "spotify:track:6l8I3oDV1rJ2q6zVZa0Jzw"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 20,
+          "duration_ms": 775670,
+          "popularity": 12,
+          "uri": "spotify:track:135tSNwdwC2l3OQFyNrFzC"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 1,
+          "duration_ms": 728172,
+          "popularity": 20,
+          "uri": "spotify:track:3bkxHdeIBwEaOT1WySlqqs"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 3,
+          "duration_ms": 420240,
+          "popularity": 10,
+          "uri": "spotify:track:3ihLuLPY1IEyoG0yz72gYX"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 6,
+          "duration_ms": 712065,
+          "popularity": 12,
+          "uri": "spotify:track:4p0KYrOHBXgjw0RTE5Kh2Q"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 11,
+          "duration_ms": 400389,
+          "popularity": 10,
+          "uri": "spotify:track:23DARd9nwvlqWzTfhAb1T9"
+        }
+      ]
+    },
+    {
+      "name": "Hot Wax",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 5,
+          "duration_ms": 208256,
+          "popularity": 9,
+          "uri": "spotify:track:5rriRYxvDbKjmMM98ZkS03"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 9,
+          "duration_ms": 347645,
+          "popularity": 14,
+          "uri": "spotify:track:4CjkjneR7VtlpNXljmm0kE"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 10,
+          "duration_ms": 160421,
+          "popularity": 12,
+          "uri": "spotify:track:21iK9JaXojlxNUcKO0eIBn"
+        }
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 2,
+          "duration_ms": 997467,
+          "popularity": 15,
+          "uri": "spotify:track:55mR7IqoQzDdFqmS1yK0xa"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 15,
+          "duration_ms": 747056,
+          "popularity": 13,
+          "uri": "spotify:track:1L9nD6NDu6NxZBicWFaT8L"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 17,
+          "duration_ms": 479538,
+          "popularity": 8,
+          "uri": "spotify:track:1A0AFxsTZjCIbwqeh9AAfw"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 10,
+          "duration_ms": 1196548,
+          "popularity": 14,
+          "uri": "spotify:track:75SSmjzxmVqmHpxs7VFE0t"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 2,
+          "duration_ms": 1002348,
+          "popularity": 15,
+          "uri": "spotify:track:156HfpWlllBmn0kmIDEsWz"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 7,
+          "duration_ms": 1137229,
+          "popularity": 12,
+          "uri": "spotify:track:1HRYIGOd9C9dIujAaNurKU"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 16,
+          "duration_ms": 939897,
+          "popularity": 11,
+          "uri": "spotify:track:5wDkVhGAycAW6Xs8bK603D"
+        }
+      ]
+    },
+    {
+      "name": "I'm in Your Mind",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 3,
+          "duration_ms": 435918,
+          "popularity": 23,
+          "uri": "spotify:track:1CYXLyQHbWC9p7vh8W5MrE"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 9,
+          "duration_ms": 198424,
+          "popularity": 14,
+          "uri": "spotify:track:48qs9g4OJUCw9KycPasbz3"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 1,
+          "duration_ms": 275594,
+          "popularity": 10,
+          "uri": "spotify:track:2nOGnoKffbuxqYR1BgitKJ"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 8,
+          "duration_ms": 202004,
+          "popularity": 12,
+          "uri": "spotify:track:26ia6PzWY1jltKm5KMrElb"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 11,
+          "duration_ms": 200543,
+          "popularity": 11,
+          "uri": "spotify:track:2UAGneCm6s5dcTqIXu0PkD"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 7,
+          "duration_ms": 275404,
+          "popularity": 13,
+          "uri": "spotify:track:0nmMQLC2OoRg3DhxT21hFV"
+        }
+      ]
+    },
+    {
+      "name": "I'm in Your Mind Fuzz",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 6,
+          "duration_ms": 219745,
+          "popularity": 21,
+          "uri": "spotify:track:6IjDjcZRPjFBvAgMUN1WIJ"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 12,
+          "duration_ms": 266686,
+          "popularity": 12,
+          "uri": "spotify:track:2JOpphD8OCjqzZgjCasUvo"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 4,
+          "duration_ms": 181801,
+          "popularity": 9,
+          "uri": "spotify:track:5q5Q3nXfrb0pMHD7AJFaIA"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 11,
+          "duration_ms": 202069,
+          "popularity": 11,
+          "uri": "spotify:track:41MxWlFdBRDYM5Rfpe3kkJ"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 14,
+          "duration_ms": 208425,
+          "popularity": 10,
+          "uri": "spotify:track:2CuSMEqZ3amwg526VNM9WC"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 10,
+          "duration_ms": 232196,
+          "popularity": 10,
+          "uri": "spotify:track:7FPem4yaxVPaXTabX2vsXU"
+        }
+      ]
+    },
+    {
+      "name": "I'm Not in Your Mind",
+      "performances": [
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 4,
+          "duration_ms": 198992,
+          "popularity": 23,
+          "uri": "spotify:track:2Ey0BscsphszeyA3XuqbT3"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 10,
+          "duration_ms": 138156,
+          "popularity": 13,
+          "uri": "spotify:track:7g3K1fv41hlmLdkP05096J"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 2,
+          "duration_ms": 180369,
+          "popularity": 10,
+          "uri": "spotify:track:5ivBIGdAzOXpqVmTRkqnzg"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 9,
+          "duration_ms": 165209,
+          "popularity": 11,
+          "uri": "spotify:track:2x50CrrPxariMHzdKpZQZI"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 12,
+          "duration_ms": 188221,
+          "popularity": 11,
+          "uri": "spotify:track:4TsrhaoV4hJHKmfyZcRZOx"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 8,
+          "duration_ms": 257045,
+          "popularity": 11,
+          "uri": "spotify:track:3aHM3LNcUkiUBsOSo80rcz"
+        }
+      ]
+    },
+    {
+      "name": "Ice V",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 6,
+          "duration_ms": 650644,
+          "popularity": 9,
+          "uri": "spotify:track:7c0BbzeRk8hMHzhKHyC5ge"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 5,
+          "duration_ms": 782917,
+          "popularity": 8,
+          "uri": "spotify:track:1ng7rYR7dGq5ONDqdVmlkY"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 10,
+          "duration_ms": 700869,
+          "popularity": 7,
+          "uri": "spotify:track:6Rd9N3I4Or5UjDtOnIrBI8"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 21,
+          "duration_ms": 522693,
+          "popularity": 11,
+          "uri": "spotify:track:5gy8ouPanMzpQDOzD0Ayol"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 3,
+          "duration_ms": 714446,
+          "popularity": 16,
+          "uri": "spotify:track:2etuvtZMSBw5nLEMvwMKK2"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 12,
+          "duration_ms": 624752,
+          "popularity": 21,
+          "uri": "spotify:track:3EpktgmWmfJI5tr2BQo5JC"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 4,
+          "duration_ms": 614625,
+          "popularity": 12,
+          "uri": "spotify:track:1CSsV1oiw62wWYyIRWOAa1"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 7,
+          "duration_ms": 669313,
+          "popularity": 12,
+          "uri": "spotify:track:4MdeA12hIVuMi8rlpwISrc"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 7,
+          "duration_ms": 680323,
+          "popularity": 11,
+          "uri": "spotify:track:7r3dg8sJWTEMs9B6wKEIDi"
+        }
+      ]
+    },
+    {
+      "name": "Inner Cell",
+      "performances": [
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 5,
+          "duration_ms": 231753,
+          "popularity": 7,
+          "uri": "spotify:track:4jtERn6dHAGCWrx2QaLdl2"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 3,
+          "duration_ms": 227004,
+          "popularity": 20,
+          "uri": "spotify:track:717aL3R8BwRVgeHFlGZL8S"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 22,
+          "duration_ms": 227011,
+          "popularity": 17,
+          "uri": "spotify:track:1mQmU6lLwoOuRL2YoSXeQF"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 11,
+          "duration_ms": 265615,
+          "popularity": 9,
+          "uri": "spotify:track:6jPYdTU4y8ggRD5sfDQqlD"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 9,
+          "duration_ms": 226523,
+          "popularity": 10,
+          "uri": "spotify:track:1QABztNznRfWS6cNgqB9IH"
+        }
+      ]
+    },
+    {
+      "name": "Interior People",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 13,
+          "duration_ms": 369753,
+          "popularity": 11,
+          "uri": "spotify:track:5Ztw7dta0ENld2d6eLI3P3"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 12,
+          "duration_ms": 376720,
+          "popularity": 9,
+          "uri": "spotify:track:4N4vvY3cxUVf4ao4qRHDBN"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 13,
+          "duration_ms": 594640,
+          "popularity": 23,
+          "uri": "spotify:track:4C99lo25pP55YQdyD4ty3g"
+        }
+      ]
+    },
+    {
+      "name": "Intrasport",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 15,
+          "duration_ms": 335189,
+          "popularity": 10,
+          "uri": "spotify:track:3dWhGxXOSYDERCsV0C2pae"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 10,
+          "duration_ms": 398702,
+          "popularity": 12,
+          "uri": "spotify:track:5Or9FIozkd6VfNq9IAhCFO"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 10,
+          "duration_ms": 306191,
+          "popularity": 19,
+          "uri": "spotify:track:26QVtMruyyEixCpIq6sdv1"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 8,
+          "duration_ms": 383325,
+          "popularity": 18,
+          "uri": "spotify:track:4gmaWdNa8NU9jDffYF7vc3"
+        }
+      ]
+    },
+    {
+      "name": "Iron Lung",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 10,
+          "duration_ms": 771095,
+          "popularity": 9,
+          "uri": "spotify:track:3CBFudNxasgP701shWVj6r"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 15,
+          "duration_ms": 795670,
+          "popularity": 16,
+          "uri": "spotify:track:1Ew7GQLKq35mXLhTuLJCPt"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 10,
+          "duration_ms": 654499,
+          "popularity": 21,
+          "uri": "spotify:track:62i5xlfSJ5cHNkkIuoJULv"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 16,
+          "duration_ms": 534088,
+          "popularity": 12,
+          "uri": "spotify:track:0NeyvPB2s75vQN5YQhccnw"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 11,
+          "duration_ms": 688889,
+          "popularity": 16,
+          "uri": "spotify:track:6e7HmJ09k6hOaO8hnUTzK5"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 10,
+          "duration_ms": 707685,
+          "popularity": 11,
+          "uri": "spotify:track:0UBSgrFjhIu4GZY1he9Noi"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 20,
+          "duration_ms": 730847,
+          "popularity": 15,
+          "uri": "spotify:track:0wakm6DGHPsexgbI8CU3N5"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 13,
+          "duration_ms": 693346,
+          "popularity": 11,
+          "uri": "spotify:track:1jLOl2QFMPdDvOdfy2F6Uu"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 2,
+          "duration_ms": 693279,
+          "popularity": 12,
+          "uri": "spotify:track:3ZG92O7JRpqBJUt2DIKpsJ"
+        }
+      ]
+    },
+    {
+      "name": "It's Got Old",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 9,
+          "duration_ms": 266460,
+          "popularity": 12,
+          "uri": "spotify:track:24U5IB6CACYv7lETYlcQ3U"
+        }
+      ]
+    },
+    {
+      "name": "K.G.L.W.",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 19,
+          "duration_ms": 733272,
+          "popularity": 7,
+          "uri": "spotify:track:6dBt5JPmCw8wty87lc9f3E"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 1,
+          "duration_ms": 656400,
+          "popularity": 12,
+          "uri": "spotify:track:0yYEhmKt0BM2P259Pw42d8"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 25,
+          "duration_ms": 697950,
+          "popularity": 11,
+          "uri": "spotify:track:7LcjBvvT5miXfbzvn6KX2n"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 19,
+          "duration_ms": 593956,
+          "popularity": 8,
+          "uri": "spotify:track:0rwhzY470PZltmSMMCzlQ3"
+        }
+      ]
+    },
+    {
+      "name": "Lava",
+      "performances": [
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 15,
+          "duration_ms": 401592,
+          "popularity": 8,
+          "uri": "spotify:track:1bGs4QTZFvNwHerENiuu4g"
+        }
+      ]
+    },
+    {
+      "name": "Le Risque",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 3,
+          "duration_ms": 335645,
+          "popularity": 13,
+          "uri": "spotify:track:0USMDXklC7FEMdSPetkcIX"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 18,
+          "duration_ms": 448740,
+          "popularity": 6,
+          "uri": "spotify:track:5PPS1zHkxfT2h0IVFNm9NK"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 16,
+          "duration_ms": 375468,
+          "popularity": 10,
+          "uri": "spotify:track:3nlblBBNBDrA1yLcFxmk49"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 16,
+          "duration_ms": 352161,
+          "popularity": 14,
+          "uri": "spotify:track:5eGqiSc5oohCu59q9M17aV"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 7,
+          "duration_ms": 262206,
+          "popularity": 21,
+          "uri": "spotify:track:0E81ZfDQ0msPkv2Jz2Yzlu"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 25,
+          "duration_ms": 357217,
+          "popularity": 9,
+          "uri": "spotify:track:3WBuUXyiBrgyyZaZEKOgDe"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 8,
+          "duration_ms": 324007,
+          "popularity": 13,
+          "uri": "spotify:track:2IKnCNrVaDRR3eFcx4puBO"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 8,
+          "duration_ms": 344237,
+          "popularity": 14,
+          "uri": "spotify:track:0IM1vjOqULmpNSdPshTTJG"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 17,
+          "duration_ms": 392426,
+          "popularity": 20,
+          "uri": "spotify:track:1MX6mL8rbmXVtkLHNWwSup"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 4,
+          "duration_ms": 287987,
+          "popularity": 12,
+          "uri": "spotify:track:2yg3NvxjUKae5I9NngKe7C"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 12,
+          "duration_ms": 246830,
+          "popularity": 11,
+          "uri": "spotify:track:776JDTXwr7BvdDtKGDKXKQ"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 7,
+          "duration_ms": 257726,
+          "popularity": 12,
+          "uri": "spotify:track:6wzScD4E9qSzP4OZYU140q"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 9,
+          "duration_ms": 243642,
+          "popularity": 10,
+          "uri": "spotify:track:55k9e18lsD7TOSMrhlsuhA"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 8,
+          "duration_ms": 297169,
+          "popularity": 11,
+          "uri": "spotify:track:1cNdewttSWT47zMc2BhtZv"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 11,
+          "duration_ms": 318855,
+          "popularity": 11,
+          "uri": "spotify:track:5xgfVTiFdaLLdNFi7Zmy4c"
+        }
+      ]
+    },
+    {
+      "name": "Let Me Mend the Past",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 10,
+          "duration_ms": 212670,
+          "popularity": 7,
+          "uri": "spotify:track:5IF1nZ2eGhboBz7NhA0gfd"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 8,
+          "duration_ms": 243301,
+          "popularity": 12,
+          "uri": "spotify:track:75vB282mVXuThTA4DAyTKx"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 15,
+          "duration_ms": 336717,
+          "popularity": 20,
+          "uri": "spotify:track:7Fhe1wCQjnFM0cjD9GQFKo"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 14,
+          "duration_ms": 184740,
+          "popularity": 12,
+          "uri": "spotify:track:5MJZjogYnEJNolDqN30Mf7"
+        }
+      ]
+    },
+    {
+      "name": "Loyalty",
+      "performances": [
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 6,
+          "duration_ms": 267907,
+          "popularity": 6,
+          "uri": "spotify:track:0xyzx5hf9lQfZwyKyybeDz"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 4,
+          "duration_ms": 234101,
+          "popularity": 20,
+          "uri": "spotify:track:1pVqt1QL6kNf6KYvFovxRA"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 23,
+          "duration_ms": 262643,
+          "popularity": 17,
+          "uri": "spotify:track:1lREmkB5SSPGgdU3P8OBtU"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 12,
+          "duration_ms": 255943,
+          "popularity": 8,
+          "uri": "spotify:track:1QDsB1f6SzHjodojcJ8kTi"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 10,
+          "duration_ms": 238461,
+          "popularity": 10,
+          "uri": "spotify:track:0hLRuAIHcsUQgA8FInsOfs"
+        }
+      ]
+    },
+    {
+      "name": "Magenta Mountain",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 15,
+          "duration_ms": 744903,
+          "popularity": 10,
+          "uri": "spotify:track:0vV2hSlqzfUZcbsqlhwn5E"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 13,
+          "duration_ms": 850850,
+          "popularity": 7,
+          "uri": "spotify:track:2B60KuXP7pK5NNKVY2oBmN"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 18,
+          "duration_ms": 507852,
+          "popularity": 22,
+          "uri": "spotify:track:6qOqkCHPRH831SCRDTqBKv"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 7,
+          "duration_ms": 507100,
+          "popularity": 10,
+          "uri": "spotify:track:5Iaeg25sijrUxpOV0vg1Cp"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 7,
+          "duration_ms": 488546,
+          "popularity": 10,
+          "uri": "spotify:track:1pluqNkDwYHYmHLi142Wl2"
+        }
+      ]
+    },
+    {
+      "name": "Magma",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 5,
+          "duration_ms": 744832,
+          "popularity": 11,
+          "uri": "spotify:track:7hdcz4EV8QD2e6xgarhLka"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 8,
+          "duration_ms": 774389,
+          "popularity": 11,
+          "uri": "spotify:track:0QP7AUg7WXgw01AbBc68eZ"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 12,
+          "duration_ms": 873440,
+          "popularity": 9,
+          "uri": "spotify:track:3gdSrCBt5LXg9iaEf4TVAq"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 17,
+          "duration_ms": 792972,
+          "popularity": 21,
+          "uri": "spotify:track:7sKqVhK6CmTgZJnsUvHPwC"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 14,
+          "duration_ms": 696964,
+          "popularity": 22,
+          "uri": "spotify:track:7MgSUNITPjPLztiCJQaTx2"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 5,
+          "duration_ms": 674307,
+          "popularity": 29,
+          "uri": "spotify:track:5ZFZKRAaxCbdjD9xi9YMUx"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 14,
+          "duration_ms": 687707,
+          "popularity": 11,
+          "uri": "spotify:track:0Td1svdpSx1X0zhQGzU6NP"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 1,
+          "duration_ms": 658059,
+          "popularity": 14,
+          "uri": "spotify:track:2hR7L8krIlppLmab9YBRK4"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 9,
+          "duration_ms": 805372,
+          "popularity": 11,
+          "uri": "spotify:track:2NXKI76fTRKrhT8GLm0SzZ"
+        }
+      ]
+    },
+    {
+      "name": "Mars for the Rich",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 12,
+          "duration_ms": 249076,
+          "popularity": 7,
+          "uri": "spotify:track:6TCf99hcXHG6763DgONUk4"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 17,
+          "duration_ms": 234438,
+          "popularity": 9,
+          "uri": "spotify:track:0AswhHGgSjBwL23A9h96I0"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 5,
+          "duration_ms": 256423,
+          "popularity": 17,
+          "uri": "spotify:track:2qgh2aWJ7xOXn620IiSSaW"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 1,
+          "duration_ms": 356532,
+          "popularity": 14,
+          "uri": "spotify:track:3ufRiYSiN8FvD8KxbWQZgM"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 6,
+          "duration_ms": 291910,
+          "popularity": 10,
+          "uri": "spotify:track:4XrUsaxAAICWPkOmaCU34C"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 1,
+          "duration_ms": 338787,
+          "popularity": 10,
+          "uri": "spotify:track:5GD5ap4toUOJdyjaYUWLQd"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 10,
+          "duration_ms": 333961,
+          "popularity": 9,
+          "uri": "spotify:track:4dILYhAwdNWraE4Ecr66FR"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 8,
+          "duration_ms": 274262,
+          "popularity": 12,
+          "uri": "spotify:track:5xbJLCHI1AGAvkKejDDopL"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 5,
+          "duration_ms": 283828,
+          "popularity": 11,
+          "uri": "spotify:track:4CIPokhH9hCoytWuZJUYC7"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 12,
+          "duration_ms": 291456,
+          "popularity": 8,
+          "uri": "spotify:track:0XSdCPyJpmWYYjUF4vfH4Q"
+        }
+      ]
+    },
+    {
+      "name": "Minimum Brain Size",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 7,
+          "duration_ms": 264107,
+          "popularity": 12,
+          "uri": "spotify:track:6DZ6hb2jZ8eGHgj0HQxuut"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 2,
+          "duration_ms": 279445,
+          "popularity": 11,
+          "uri": "spotify:track:05EQDwmlOQciVQVfV4iN7U"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 7,
+          "duration_ms": 254276,
+          "popularity": 9,
+          "uri": "spotify:track:54Z5oIwu2s1VOBO3ndIfIK"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 1,
+          "duration_ms": 334546,
+          "popularity": 11,
+          "uri": "spotify:track:5StwWd6p5QkIAXjYT02Ffs"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 13,
+          "duration_ms": 566372,
+          "popularity": 10,
+          "uri": "spotify:track:6YHUPBRDun4RfSjYiXURRA"
+        }
+      ]
+    },
+    {
+      "name": "Mirage City",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 7,
+          "duration_ms": 515056,
+          "popularity": 8,
+          "uri": "spotify:track:0TxqjYdttWEUKzYLgxffTa"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 7,
+          "duration_ms": 479397,
+          "popularity": 7,
+          "uri": "spotify:track:11dCQ64jqFFc0CF9ew9o6N"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 9,
+          "duration_ms": 550633,
+          "popularity": 5,
+          "uri": "spotify:track:6Kbn9kanPbr7wVYgEwJWBD"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 8,
+          "duration_ms": 654300,
+          "popularity": 7,
+          "uri": "spotify:track:2e2iiT2QWNtGVATUx5DlJR"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 13,
+          "duration_ms": 370820,
+          "popularity": 11,
+          "uri": "spotify:track:2Jbq88PuVPZ1sgEClGpehS"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 14,
+          "duration_ms": 221799,
+          "popularity": 19,
+          "uri": "spotify:track:3y1va47awnfVSYc34yIrbx"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 16,
+          "duration_ms": 261815,
+          "popularity": 18,
+          "uri": "spotify:track:6YioYD9En1CEc5Rh9dNBqw"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 3,
+          "duration_ms": 287236,
+          "popularity": 12,
+          "uri": "spotify:track:4zzEHmocvkcIZrSV7r64ks"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 8,
+          "duration_ms": 322143,
+          "popularity": 9,
+          "uri": "spotify:track:2VQ9wsoZjCxWdAQ3d2rIgQ"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 6,
+          "duration_ms": 291985,
+          "popularity": 11,
+          "uri": "spotify:track:4eX91JG2nIBRQqcFOk7Ga7"
+        }
+      ]
+    },
+    {
+      "name": "Mirage City II",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 16,
+          "duration_ms": 178701,
+          "popularity": 10,
+          "uri": "spotify:track:1KVDKO7rvs7XxsWVJjRmLi"
+        }
+      ]
+    },
+    {
+      "name": "Motor Spirit",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 2,
+          "duration_ms": 682690,
+          "popularity": 9,
+          "uri": "spotify:track:1Z1BEb3ncVbHJSCgl0Zj30"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 15,
+          "duration_ms": 592655,
+          "popularity": 5,
+          "uri": "spotify:track:22WSZlrCK2CnVqSH7NlPXK"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 3,
+          "duration_ms": 640175,
+          "popularity": 19,
+          "uri": "spotify:track:1oV3VtrO4TsK35qwyHpyil"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 2,
+          "duration_ms": 660886,
+          "popularity": 14,
+          "uri": "spotify:track:3pQTwu62VFiqVgahub1EWn"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 15,
+          "duration_ms": 765836,
+          "popularity": 14,
+          "uri": "spotify:track:4IUcqbuMq35rfybFc25PmS"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 29,
+          "duration_ms": 658033,
+          "popularity": 18,
+          "uri": "spotify:track:4PE6kvmYwgnJuRyqacK3Iz"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 6,
+          "duration_ms": 668150,
+          "popularity": 9,
+          "uri": "spotify:track:2yEJvYOt3i90vbfNk4CATm"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 21,
+          "duration_ms": 554028,
+          "popularity": 8,
+          "uri": "spotify:track:3UcmAgKGpCPcQmU4mLuT2h"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 13,
+          "duration_ms": 595443,
+          "popularity": 11,
+          "uri": "spotify:track:6vtTJuYkwcwp9LkNZlmz3w"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 4,
+          "duration_ms": 654296,
+          "popularity": 15,
+          "uri": "spotify:track:1ZKS4yZgNzgbL1AsWHI73R"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 13,
+          "duration_ms": 728279,
+          "popularity": 9,
+          "uri": "spotify:track:7okC6z2bbiE5NA4PLaYRdj"
+        }
+      ]
+    },
+    {
+      "name": "Mr. Beat",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 2,
+          "duration_ms": 422494,
+          "popularity": 8,
+          "uri": "spotify:track:7sP4mMAXwukg6yd0Z0gMVf"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 12,
+          "duration_ms": 423111,
+          "popularity": 10,
+          "uri": "spotify:track:44WBnKZ9i8bLgCv11WyhFI"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 6,
+          "duration_ms": 283057,
+          "popularity": 13,
+          "uri": "spotify:track:1883a1aOilygACHwFSVzCS"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 5,
+          "duration_ms": 422208,
+          "popularity": 16,
+          "uri": "spotify:track:2s1WrQcyiW8O3qgJCL0Bh0"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 6,
+          "duration_ms": 300100,
+          "popularity": 11,
+          "uri": "spotify:track:6ahI0HgTNQPvq1MWK6gOGk"
+        }
+      ]
+    },
+    {
+      "name": "Muddy Water",
+      "performances": [
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 8,
+          "duration_ms": 265614,
+          "popularity": 5,
+          "uri": "spotify:track:5FqAPPtkGIGclz0eb1S7NH"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 11,
+          "duration_ms": 253531,
+          "popularity": 19,
+          "uri": "spotify:track:7MsygeWZoHflz42UIHCRM3"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 3,
+          "duration_ms": 250804,
+          "popularity": 13,
+          "uri": "spotify:track:2Mb22wS9rfQFvhb2yMFNsR"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 5,
+          "duration_ms": 294368,
+          "popularity": 10,
+          "uri": "spotify:track:2QEFBLopxIhXuvQTuAYuBA"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 2,
+          "duration_ms": 557635,
+          "popularity": 14,
+          "uri": "spotify:track:7eZiAvXtfjGeWZz3fuRYIs"
+        }
+      ]
+    },
+    {
+      "name": "Murder of the Universe",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 6,
+          "duration_ms": 318561,
+          "popularity": 8,
+          "uri": "spotify:track:7DGJRQEpT7n1cahNKPk0d3"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 23,
+          "duration_ms": 433978,
+          "popularity": 11,
+          "uri": "spotify:track:3mP5Fl9n1zieVeMpLtmyRd"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 25,
+          "duration_ms": 334328,
+          "popularity": 14,
+          "uri": "spotify:track:0XyWUXW5EwbB4Ih0AWLEe2"
+        }
+      ]
+    },
+    {
+      "name": "Mystery Jack",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 10,
+          "duration_ms": 150916,
+          "popularity": 13,
+          "uri": "spotify:track:4ABvxnkiyLYOav5uJEjyIn"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 7,
+          "duration_ms": 164708,
+          "popularity": 11,
+          "uri": "spotify:track:2yANmsShKucPWtQhXk7Hcu"
+        }
+      ]
+    },
+    {
+      "name": "Nuclear Fusion",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 8,
+          "duration_ms": 362329,
+          "popularity": 11,
+          "uri": "spotify:track:0psSCX31dkVnlopCNP3pdw"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 9,
+          "duration_ms": 381365,
+          "popularity": 16,
+          "uri": "spotify:track:7k09SN92vdgf4xk9NCAnuS"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 13,
+          "duration_ms": 422163,
+          "popularity": 11,
+          "uri": "spotify:track:3LYpLHfDmmPqscGj6FNuhJ"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 23,
+          "duration_ms": 346805,
+          "popularity": 10,
+          "uri": "spotify:track:1T3vtXh83ckb6KnGA5z7KF"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 3,
+          "duration_ms": 401740,
+          "popularity": 11,
+          "uri": "spotify:track:6InMu3HVEQWLdxC0dEycAk"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 10,
+          "duration_ms": 381163,
+          "popularity": 8,
+          "uri": "spotify:track:4RV8qSITZedLfpHjuMrVvq"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 3,
+          "duration_ms": 329143,
+          "popularity": 10,
+          "uri": "spotify:track:3uLMLH62hMEc5XpjcbHAWd"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 11,
+          "duration_ms": 425709,
+          "popularity": 10,
+          "uri": "spotify:track:2aBuEorZEGUGHYl9bNT5HM"
+        }
+      ]
+    },
+    {
+      "name": "O.N.E.",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 2,
+          "duration_ms": 234718,
+          "popularity": 9,
+          "uri": "spotify:track:53Rvhtyo9kARxaWtKS6kpM"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 11,
+          "duration_ms": 226792,
+          "popularity": 11,
+          "uri": "spotify:track:3VmvooeT45XkH7ERlwRD2q"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 2,
+          "duration_ms": 215915,
+          "popularity": 23,
+          "uri": "spotify:track:5s3UTSebKwW0dUfMbY6Eiv"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 2,
+          "duration_ms": 253998,
+          "popularity": 10,
+          "uri": "spotify:track:1MRlcRpxOeAEXBMMGHfce1"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 2,
+          "duration_ms": 264202,
+          "popularity": 13,
+          "uri": "spotify:track:3x4FQ9eP3PB5qyubRaSmm6"
+        }
+      ]
+    },
+    {
+      "name": "Open Water",
+      "performances": [
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 4,
+          "duration_ms": 422361,
+          "popularity": 25,
+          "uri": "spotify:track:5PZtsofG0HiTJgQtfHOuVV"
+        }
+      ]
+    },
+    {
+      "name": "Organ Farmer",
+      "performances": [
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 3,
+          "duration_ms": 232456,
+          "popularity": 7,
+          "uri": "spotify:track:4xS2cqCZMQD5iymfR58hxG"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 15,
+          "duration_ms": 274350,
+          "popularity": 11,
+          "uri": "spotify:track:0jOxQNbMIg3AUYeWzLKfGv"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 9,
+          "duration_ms": 216112,
+          "popularity": 10,
+          "uri": "spotify:track:5ErxNrd2UbNsDJnRGmbkkv"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 3,
+          "duration_ms": 318856,
+          "popularity": 10,
+          "uri": "spotify:track:2aFIDCmKA81QeBdbaY4VPx"
+        }
+      ]
+    },
+    {
+      "name": "People-Vultures",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 1,
+          "duration_ms": 498781,
+          "popularity": 9,
+          "uri": "spotify:track:51CMAwr6QLxa4IDnTblmjo"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 3,
+          "duration_ms": 565751,
+          "popularity": 6,
+          "uri": "spotify:track:6ogJIT5LzSprIkAadrMWVs"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 11,
+          "duration_ms": 483525,
+          "popularity": 11,
+          "uri": "spotify:track:1ggqXI3YIXDbUrvWUl37eK"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 5,
+          "duration_ms": 414584,
+          "popularity": 13,
+          "uri": "spotify:track:3L0kTeOiw9Zb4E7vbVUYwK"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 20,
+          "duration_ms": 498962,
+          "popularity": 8,
+          "uri": "spotify:track:1vPY6Tq179QOoNfOkBCYcQ"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 4,
+          "duration_ms": 410888,
+          "popularity": 18,
+          "uri": "spotify:track:3JM0qy4i62mYEODCY5hchU"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 18,
+          "duration_ms": 506095,
+          "popularity": 12,
+          "uri": "spotify:track:1N9BfzZccrGqa2csihAMTr"
+        }
+      ]
+    },
+    {
+      "name": "Perihelion",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 13,
+          "duration_ms": 198247,
+          "popularity": 6,
+          "uri": "spotify:track:4sgr7cPpIfkYFgUTA3qQjx"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 15,
+          "duration_ms": 228566,
+          "popularity": 7,
+          "uri": "spotify:track:0UafhSin0h3p9LMTXOmoq4"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 1,
+          "duration_ms": 336679,
+          "popularity": 12,
+          "uri": "spotify:track:1wcO80zoB8iCmMqEe5OJOF"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 16,
+          "duration_ms": 215310,
+          "popularity": 10,
+          "uri": "spotify:track:79MrOFgbzba4fgo6r65DkD"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 1,
+          "duration_ms": 304318,
+          "popularity": 11,
+          "uri": "spotify:track:7rYrl8Xfm5s7AL0JYfmK1W"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 6,
+          "duration_ms": 237776,
+          "popularity": 10,
+          "uri": "spotify:track:1TfgUdCviYz5QBDseXT9mo"
+        }
+      ]
+    },
+    {
+      "name": "Planet B",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 4,
+          "duration_ms": 318332,
+          "popularity": 8,
+          "uri": "spotify:track:1Y9fpjKct6i57PWOSTnYPM"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 2,
+          "duration_ms": 333481,
+          "popularity": 13,
+          "uri": "spotify:track:0R6JLDzOcJjgGuSBpBQCgi"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 11,
+          "duration_ms": 339993,
+          "popularity": 10,
+          "uri": "spotify:track:5tdmcl6cSOiYFol0TF1kZ4"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 10,
+          "duration_ms": 376844,
+          "popularity": 14,
+          "uri": "spotify:track:3DudpNhFcVWscsVE2Y23tx"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 10,
+          "duration_ms": 305130,
+          "popularity": 9,
+          "uri": "spotify:track:6ddykW5LuuXUlUpem7y27r"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 15,
+          "duration_ms": 297732,
+          "popularity": 9,
+          "uri": "spotify:track:2pYxgvOO6bUpTkvNQM1Ixm"
+        }
+      ]
+    },
+    {
+      "name": "Plastic Boogie",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 6,
+          "duration_ms": 327870,
+          "popularity": 12,
+          "uri": "spotify:track:3YShPZ1m7scpwm05DKjhox"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 17,
+          "duration_ms": 187703,
+          "popularity": 9,
+          "uri": "spotify:track:2Jy8P6a1PWg6hkSzt0h9TG"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 9,
+          "duration_ms": 236755,
+          "popularity": 15,
+          "uri": "spotify:track:7wGoZzMySSBKdzW3yPUH7M"
+        }
+      ]
+    },
+    {
+      "name": "Pleura",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 4,
+          "duration_ms": 295293,
+          "popularity": 9,
+          "uri": "spotify:track:4PqYbeSGf747pFu8QE9x0n"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 20,
+          "duration_ms": 389811,
+          "popularity": 10,
+          "uri": "spotify:track:3Mon2ohbCrBraJ4zaWcYuX"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 4,
+          "duration_ms": 265895,
+          "popularity": 10,
+          "uri": "spotify:track:2DzpvXzVj6mIcbomKcYtyt"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 1,
+          "duration_ms": 356581,
+          "popularity": 10,
+          "uri": "spotify:track:5NL6WCqQVxl4F5QMg6kCW9"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 9,
+          "duration_ms": 436598,
+          "popularity": 11,
+          "uri": "spotify:track:4ZevLzTRV8YB5lFyLDqQMh"
+        }
+      ]
+    },
+    {
+      "name": "Predator X",
+      "performances": [
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 14,
+          "duration_ms": 307622,
+          "popularity": 5,
+          "uri": "spotify:track:1OVODC0kGFQQK3o4zbHOQO"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 15,
+          "duration_ms": 321444,
+          "popularity": 15,
+          "uri": "spotify:track:0jcrtNN12MHlLLgDFAMkPA"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 14,
+          "duration_ms": 241578,
+          "popularity": 10,
+          "uri": "spotify:track:2Aw9OQwjGNtwPqoTYD0QAB"
+        }
+      ]
+    },
+    {
+      "name": "Rats in the Sky",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 12,
+          "duration_ms": 313684,
+          "popularity": 6,
+          "uri": "spotify:track:4XiIzI6mWhILLTrheOWnwL"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 4,
+          "duration_ms": 278989,
+          "popularity": 7,
+          "uri": "spotify:track:2N0IMnZECOAjltl5Z1MH2c"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 5,
+          "duration_ms": 255621,
+          "popularity": 5,
+          "uri": "spotify:track:39Nr8Cd3zLAQAJLbXCWPyV"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 9,
+          "duration_ms": 256959,
+          "popularity": 7,
+          "uri": "spotify:track:1NfnX9Nsz4Z6hG0e8u2b0V"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 19,
+          "duration_ms": 235862,
+          "popularity": 9,
+          "uri": "spotify:track:1xPoNiPJBHNglUFHN3vlYN"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 14,
+          "duration_ms": 251974,
+          "popularity": 8,
+          "uri": "spotify:track:3CGpxntilSq8CybRROgVTn"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 15,
+          "duration_ms": 271090,
+          "popularity": 8,
+          "uri": "spotify:track:42u8HD9ABEPLsSQWNS5ksz"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 7,
+          "duration_ms": 233592,
+          "popularity": 17,
+          "uri": "spotify:track:16w7IMQ9AUoH7MCcJRxteE"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 3,
+          "duration_ms": 314773,
+          "popularity": 11,
+          "uri": "spotify:track:6FOYq26jEVXASDLxJ3wx07"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 14,
+          "duration_ms": 265895,
+          "popularity": 10,
+          "uri": "spotify:track:5ezyhxoCBJEl9JBqMBE0Zz"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 3,
+          "duration_ms": 328954,
+          "popularity": 12,
+          "uri": "spotify:track:4E5esv6GAlnNgfLQzUGQgK"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 12,
+          "duration_ms": 214754,
+          "popularity": 10,
+          "uri": "spotify:track:5PU4YSIaanreStMPH1MFtF"
+        }
+      ]
+    },
+    {
+      "name": "Rattlesnake",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 1,
+          "duration_ms": 773932,
+          "popularity": 11,
+          "uri": "spotify:track:2pt7NIkh8L4xWi3knF8LMM"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 20,
+          "duration_ms": 614875,
+          "popularity": 6,
+          "uri": "spotify:track:5nwwD84P8ttMbtYGpKIMBp"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 24,
+          "duration_ms": 952425,
+          "popularity": 12,
+          "uri": "spotify:track:1Ku7VKCngt8sQtKa2Q37Iw"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 1,
+          "duration_ms": 745396,
+          "popularity": 25,
+          "uri": "spotify:track:3jrxyjgIcxXnCktxp44sHg"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 9,
+          "duration_ms": 754149,
+          "popularity": 9,
+          "uri": "spotify:track:6o9LIhvf5712pCViaa2z2p"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 14,
+          "duration_ms": 607899,
+          "popularity": 10,
+          "uri": "spotify:track:54fXaAeSBDQaRyw9YRFGd5"
+        }
+      ]
+    },
+    {
+      "name": "Raw Feel",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 7,
+          "duration_ms": 654694,
+          "popularity": 10,
+          "uri": "spotify:track:2AotUuzBGCkL4IYIN8v7FP"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 9,
+          "duration_ms": 508663,
+          "popularity": 6,
+          "uri": "spotify:track:35U5uLB36UdVjMisWBk1Y9"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 16,
+          "duration_ms": 667638,
+          "popularity": 19,
+          "uri": "spotify:track:3vMxMFoSOGK05MejIKlseD"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 7,
+          "duration_ms": 625095,
+          "popularity": 19,
+          "uri": "spotify:track:1R3EkVBoOjiPDGrhRwJfsL"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 13,
+          "duration_ms": 491299,
+          "popularity": 10,
+          "uri": "spotify:track:2aj0KQsvYN7mJeUTohNxs8"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 6,
+          "duration_ms": 427923,
+          "popularity": 14,
+          "uri": "spotify:track:41KREtHtNpgiewZW8azu8S"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 9,
+          "duration_ms": 447085,
+          "popularity": 9,
+          "uri": "spotify:track:45JnKz65ItKsN80HSf4r6U"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 14,
+          "duration_ms": 457298,
+          "popularity": 7,
+          "uri": "spotify:track:6JTc1E5cN753Hcb7YBd70h"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 4,
+          "duration_ms": 393971,
+          "popularity": 9,
+          "uri": "spotify:track:5gTB0yBXv9NlbFF6b265AP"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 4,
+          "duration_ms": 422580,
+          "popularity": 11,
+          "uri": "spotify:track:7qLO956p5X3X3VaW9ft7sP"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 7,
+          "duration_ms": 474027,
+          "popularity": 9,
+          "uri": "spotify:track:6EbMS3YV2qnurTttGgq8Gy"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 4,
+          "duration_ms": 412059,
+          "popularity": 11,
+          "uri": "spotify:track:1T1z3WsWpGTKeX8AG3hkGd"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 10,
+          "duration_ms": 441761,
+          "popularity": 8,
+          "uri": "spotify:track:3FEwXaT8qZNpWNewvZe9Ic"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 4,
+          "duration_ms": 395938,
+          "popularity": 10,
+          "uri": "spotify:track:3widAcagfmAEinDRtf0VcN"
+        }
+      ]
+    },
+    {
+      "name": "Road Train",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 5,
+          "duration_ms": 210344,
+          "popularity": 11,
+          "uri": "spotify:track:32IoNLNt08C9DXHjGhV9cv"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 6,
+          "duration_ms": 233932,
+          "popularity": 11,
+          "uri": "spotify:track:0Mcn341N1pwzw2rZN3t6xX"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 10,
+          "duration_ms": 248329,
+          "popularity": 20,
+          "uri": "spotify:track:0UHwGaAdWAvB5oKQ52jK65"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 15,
+          "duration_ms": 196205,
+          "popularity": 8,
+          "uri": "spotify:track:0CUnZe4XPp9z6TzYVhYIyV"
+        }
+      ]
+    },
+    {
+      "name": "Robot Stop",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 16,
+          "duration_ms": 381853,
+          "popularity": 7,
+          "uri": "spotify:track:71DocaUgxDL844z5ZmGsas"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 18,
+          "duration_ms": 521411,
+          "popularity": 13,
+          "uri": "spotify:track:1sTea6LOPl4AixkYVSnBbb"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 2,
+          "duration_ms": 512388,
+          "popularity": 18,
+          "uri": "spotify:track:3rGT7eZun2LUnjTsBOjtXe"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 18,
+          "duration_ms": 284086,
+          "popularity": 9,
+          "uri": "spotify:track:6FiqXXDr2OBuMPq4Rw0EjR"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 1,
+          "duration_ms": 547939,
+          "popularity": 19,
+          "uri": "spotify:track:1vMpMkaUMoSaTKmuBwcVwh"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 12,
+          "duration_ms": 426811,
+          "popularity": 11,
+          "uri": "spotify:track:5BwWOTMOrdXEYamcGjQ6p3"
+        }
+      ]
+    },
+    {
+      "name": "Sad Pilot",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 11,
+          "duration_ms": 321100,
+          "popularity": 7,
+          "uri": "spotify:track:2sJAiuWIUD5FDC8TVIMbga"
+        },
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 3,
+          "duration_ms": 311790,
+          "popularity": 7,
+          "uri": "spotify:track:7Myi0zAtTWaZX3qxtqMbpt"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 4,
+          "duration_ms": 336224,
+          "popularity": 5,
+          "uri": "spotify:track:3WHtAt692kFZJS7peTjXkh"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 8,
+          "duration_ms": 490889,
+          "popularity": 8,
+          "uri": "spotify:track:1GmsigE6qAiDA1QeVBNntE"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 18,
+          "duration_ms": 271103,
+          "popularity": 10,
+          "uri": "spotify:track:0tPU73KRXwpKo7jB71V4Y5"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 12,
+          "duration_ms": 363398,
+          "popularity": 10,
+          "uri": "spotify:track:3KXep9LGpWgTyajdSHImbf"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 13,
+          "duration_ms": 256888,
+          "popularity": 8,
+          "uri": "spotify:track:2oS00V9CP5RupXlw71uOBM"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 6,
+          "duration_ms": 274657,
+          "popularity": 17,
+          "uri": "spotify:track:1CxOG2gk1W1EHjmVipkko1"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 8,
+          "duration_ms": 414606,
+          "popularity": 10,
+          "uri": "spotify:track:1D9B82WlotgU27MjZ7KUtv"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 4,
+          "duration_ms": 428041,
+          "popularity": 12,
+          "uri": "spotify:track:54JbhfftDjPloU2TskWTk9"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 13,
+          "duration_ms": 289042,
+          "popularity": 8,
+          "uri": "spotify:track:6WUeDK7PvYVJx3wKaSBcU6"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 5,
+          "duration_ms": 277560,
+          "popularity": 9,
+          "uri": "spotify:track:3oxTWWAU6EyGVsKaP45Y8W"
+        }
+      ]
+    },
+    {
+      "name": "Sea of Trees",
+      "performances": [
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 17,
+          "duration_ms": 429282,
+          "popularity": 9,
+          "uri": "spotify:track:5R4M9dGBQLj4emVtUomz2r"
+        }
+      ]
+    },
+    {
+      "name": "Self-Immolate",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 5,
+          "duration_ms": 593276,
+          "popularity": 8,
+          "uri": "spotify:track:7r3Uq6JsJgVpzGGQ3SoEKC"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 1,
+          "duration_ms": 526047,
+          "popularity": 8,
+          "uri": "spotify:track:5wnkXg1y3TYirPnVCtx4F2"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 7,
+          "duration_ms": 670039,
+          "popularity": 14,
+          "uri": "spotify:track:6VImCHNvhl5tSMKh63NOoa"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 14,
+          "duration_ms": 553047,
+          "popularity": 13,
+          "uri": "spotify:track:5zurzrHeGs6uUpDgKVUCdr"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 7,
+          "duration_ms": 435374,
+          "popularity": 11,
+          "uri": "spotify:track:2LkiParP2MbowH8zPsWzSo"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 5,
+          "duration_ms": 550249,
+          "popularity": 10,
+          "uri": "spotify:track:5WavKpSXXLMay2FFkVykxg"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 15,
+          "duration_ms": 543627,
+          "popularity": 11,
+          "uri": "spotify:track:3x4TIJHr6fYpEHZLdWKAha"
+        }
+      ]
+    },
+    {
+      "name": "Sense",
+      "performances": [
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 6,
+          "duration_ms": 524523,
+          "popularity": 21,
+          "uri": "spotify:track:1h7phi5cC4rev9hi6RQhVA"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 12,
+          "duration_ms": 436055,
+          "popularity": 15,
+          "uri": "spotify:track:76OfPpLfZQ0y6Mfn1VnxzC"
+        }
+      ]
+    },
+    {
+      "name": "Set",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 14,
+          "duration_ms": 791967,
+          "popularity": 7,
+          "uri": "spotify:track:6crXOj29bpsm7BLPTRAtyJ"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 11,
+          "duration_ms": 935836,
+          "popularity": 11,
+          "uri": "spotify:track:3z6MeghXjvEFgvXQaX5HdE"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 11,
+          "duration_ms": 867800,
+          "popularity": 17,
+          "uri": "spotify:track:5mIo2nlud7zau8ZL6rrJvT"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 3,
+          "duration_ms": 1037112,
+          "popularity": 18,
+          "uri": "spotify:track:76mod5pxrtc26R1JQZC4Og"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 18,
+          "duration_ms": 686223,
+          "popularity": 10,
+          "uri": "spotify:track:2LIFLf2fJFFz5paXaBvr3k"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 12,
+          "duration_ms": 913319,
+          "popularity": 12,
+          "uri": "spotify:track:6ffySoNOrDmlmkz5XqnLxh"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 9,
+          "duration_ms": 757808,
+          "popularity": 9,
+          "uri": "spotify:track:4PyrOf4V3oQsfzByAw5rjV"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 27,
+          "duration_ms": 1177909,
+          "popularity": 14,
+          "uri": "spotify:track:31CLHvUMCr9JnLMSa6zO5S"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 19,
+          "duration_ms": 959430,
+          "popularity": 10,
+          "uri": "spotify:track:2fIuul4dCUCsdcEloTjddi"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 16,
+          "duration_ms": 572240,
+          "popularity": 10,
+          "uri": "spotify:track:7G18CMOwysWjMdpnWPyWTL"
+        }
+      ]
+    },
+    {
+      "name": "Shanghai",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 10,
+          "duration_ms": 326115,
+          "popularity": 8,
+          "uri": "spotify:track:0GjamSaGdCIFxpspXpgjtn"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 14,
+          "duration_ms": 336012,
+          "popularity": 12,
+          "uri": "spotify:track:0m6IxvnWiGeO4Q7Xrib1Bh"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 13,
+          "duration_ms": 948675,
+          "popularity": 10,
+          "uri": "spotify:track:1McX9JzsmBMe54hIW2hWBy"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 12,
+          "duration_ms": 720510,
+          "popularity": 11,
+          "uri": "spotify:track:5SkHw18YZfh46LxwzuBzH0"
+        }
+      ]
+    },
+    {
+      "name": "Sleep Drifter",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 12,
+          "duration_ms": 482656,
+          "popularity": 12,
+          "uri": "spotify:track:18OiFz0Y3Zwk3HSLaQj5gS"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 3,
+          "duration_ms": 276655,
+          "popularity": 24,
+          "uri": "spotify:track:6mJcUQG3B2lcT0H2fFHjZR"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 18,
+          "duration_ms": 222953,
+          "popularity": 7,
+          "uri": "spotify:track:70rjsIFmuDl781XN5ncigl"
+        }
+      ]
+    },
+    {
+      "name": "Slow Jam 1",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 6,
+          "duration_ms": 648287,
+          "popularity": 8,
+          "uri": "spotify:track:2OZZt3c9p3GdxeXQbJJG1y"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 4,
+          "duration_ms": 598829,
+          "popularity": 17,
+          "uri": "spotify:track:1QWdKSbFKmY8CLM7QYP3xZ"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 16,
+          "duration_ms": 799691,
+          "popularity": 14,
+          "uri": "spotify:track:2NsShQ7zGenPzmSjSg4aSL"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 12,
+          "duration_ms": 834391,
+          "popularity": 12,
+          "uri": "spotify:track:52pQjD4mVEdlpCvtrHtoMP"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 11,
+          "duration_ms": 500597,
+          "popularity": 16,
+          "uri": "spotify:track:527IuelBinknzZJ8H1Wazv"
+        }
+      ]
+    },
+    {
+      "name": "Soy-Protein Munt Machine",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 4,
+          "duration_ms": 28779,
+          "popularity": 0,
+          "uri": "spotify:track:24AE6V9DfjMzBkUbtB6ICg"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 21,
+          "duration_ms": 25975,
+          "popularity": 0,
+          "uri": "spotify:track:697SJfPljsKrRgViyYv4xt"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 23,
+          "duration_ms": 26410,
+          "popularity": 0,
+          "uri": "spotify:track:0vutYLJML91WLJRS9NLg2P"
+        }
+      ]
+    },
+    {
+      "name": "Static Electricity",
+      "performances": [
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 3,
+          "duration_ms": 370054,
+          "popularity": 13,
+          "uri": "spotify:track:092eBS5yqhIZXCVDFfo7nu"
+        }
+      ]
+    },
+    {
+      "name": "Straws in the Wind",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 3,
+          "duration_ms": 543913,
+          "popularity": 9,
+          "uri": "spotify:track:6p7ra7BV35Ma8c0PQ5T1Cy"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 9,
+          "duration_ms": 700289,
+          "popularity": 10,
+          "uri": "spotify:track:26UeplgO4a5HQHoVV0PFqe"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 10,
+          "duration_ms": 554438,
+          "popularity": 11,
+          "uri": "spotify:track:0VHZSTHkNlLkzNtG7Hyeyd"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 19,
+          "duration_ms": 896658,
+          "popularity": 12,
+          "uri": "spotify:track:1HKkgQZmUkYhQMYsJm9sh8"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 5,
+          "duration_ms": 727055,
+          "popularity": 10,
+          "uri": "spotify:track:6HO73I465g0mpi5EEqM4MJ"
+        },
+        {
+          "album_name": "Live in Omaha '24",
+          "release_date": "2024-09-06",
+          "track_number": 12,
+          "duration_ms": 596155,
+          "popularity": 8,
+          "uri": "spotify:track:5DKA95Jke0JkBUktc1Hgwg"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 19,
+          "duration_ms": 707956,
+          "popularity": 13,
+          "uri": "spotify:track:4Zks9ohGb4jvJbQaMbJpkC"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 8,
+          "duration_ms": 545804,
+          "popularity": 11,
+          "uri": "spotify:track:0044D7s6rVP0FKDBZjq0DV"
+        }
+      ]
+    },
+    {
+      "name": "Stressin'",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 12,
+          "duration_ms": 204741,
+          "popularity": 10,
+          "uri": "spotify:track:3erbXMNp59K0oInn4iOtbc"
+        }
+      ]
+    },
+    {
+      "name": "Superbug",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 1,
+          "duration_ms": 478001,
+          "popularity": 9,
+          "uri": "spotify:track:6zfKGa2VsfnU0FXsTxEaQG"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 1,
+          "duration_ms": 520005,
+          "popularity": 21,
+          "uri": "spotify:track:2QRA7WNZHSAcmkARtnIBaz"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 12,
+          "duration_ms": 409826,
+          "popularity": 12,
+          "uri": "spotify:track:6edathEwHcBTblFCp0AHZp"
+        }
+      ]
+    },
+    {
+      "name": "Supercell",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 11,
+          "duration_ms": 301875,
+          "popularity": 7,
+          "uri": "spotify:track:2JuJWvq510fkTgj5RSA81S"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 2,
+          "duration_ms": 319730,
+          "popularity": 7,
+          "uri": "spotify:track:4b8P4JGcJc0exfPQhaVsY4"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 2,
+          "duration_ms": 328259,
+          "popularity": 20,
+          "uri": "spotify:track:2Ea0V9mhOmkU1SbLIrrPr7"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 8,
+          "duration_ms": 304778,
+          "popularity": 11,
+          "uri": "spotify:track:4mVnSbIsNxRelpcgDBf5bn"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 20,
+          "duration_ms": 293534,
+          "popularity": 7,
+          "uri": "spotify:track:37URpA7BWJxnupCORQ3foS"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 15,
+          "duration_ms": 379362,
+          "popularity": 10,
+          "uri": "spotify:track:5LKFZfFtUskwb3WBE0yPJV"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 12,
+          "duration_ms": 322833,
+          "popularity": 8,
+          "uri": "spotify:track:7138DqDdkdLNyOByAyoJw1"
+        },
+        {
+          "album_name": "Live in Cleveland '24",
+          "release_date": "2024-08-24",
+          "track_number": 13,
+          "duration_ms": 306487,
+          "popularity": 11,
+          "uri": "spotify:track:2dxt2xtxg4L2x4JrfrMKgG"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 5,
+          "duration_ms": 520352,
+          "popularity": 10,
+          "uri": "spotify:track:2o9qQH6spgaqyT6NVB2hdq"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 11,
+          "duration_ms": 318101,
+          "popularity": 8,
+          "uri": "spotify:track:2yR2EWHHCmOnIpOOLKABPj"
+        }
+      ]
+    },
+    {
+      "name": "Swan Song",
+      "performances": [
+        {
+          "album_name": "Live in St. Augustine '24",
+          "release_date": "2024-11-20",
+          "track_number": 13,
+          "duration_ms": 660620,
+          "popularity": 8,
+          "uri": "spotify:track:6Mk1bMuF4TTLU1jkMiqbtq"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 12,
+          "duration_ms": 709808,
+          "popularity": 15,
+          "uri": "spotify:track:3WJpd5ZQOJmZNJDiW7KxpY"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 6,
+          "duration_ms": 869067,
+          "popularity": 16,
+          "uri": "spotify:track:4g00jaXMeFbINsVl3hcQzd"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 11,
+          "duration_ms": 653091,
+          "popularity": 11,
+          "uri": "spotify:track:2eUlisJM1PBXcH3DsjzH7f"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 26,
+          "duration_ms": 851473,
+          "popularity": 14,
+          "uri": "spotify:track:0UtIFKdGVRdjjKpmR1EsrY"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 14,
+          "duration_ms": 647050,
+          "popularity": 11,
+          "uri": "spotify:track:5wBh2zMJ7bNESZDzRU2tRu"
+        }
+      ]
+    },
+    {
+      "name": "Tetrachromacy",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 7,
+          "duration_ms": 277698,
+          "popularity": 12,
+          "uri": "spotify:track:159OyzDH7VPMqbHANtaDqB"
+        }
+      ]
+    },
+    {
+      "name": "The Balrog",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 24,
+          "duration_ms": 362131,
+          "popularity": 9,
+          "uri": "spotify:track:5DjrKl0cE2IdZXl4OOakQP"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 8,
+          "duration_ms": 412243,
+          "popularity": 21,
+          "uri": "spotify:track:50mP0WaTB1Bsx9mo06mTrp"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 15,
+          "duration_ms": 213339,
+          "popularity": 8,
+          "uri": "spotify:track:2WBDRBuzXyJZCd10YlDauU"
+        }
+      ]
+    },
+    {
+      "name": "The Bitter Boogie",
+      "performances": [
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 7,
+          "duration_ms": 489097,
+          "popularity": 5,
+          "uri": "spotify:track:0UjuMdNQbzu75IZUzy8ZOf"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 12,
+          "duration_ms": 615877,
+          "popularity": 19,
+          "uri": "spotify:track:2e4XN35B50zt44EZaJTSKs"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 2,
+          "duration_ms": 258842,
+          "popularity": 12,
+          "uri": "spotify:track:240FhO5d5lZM62OF8f4DI5"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 4,
+          "duration_ms": 667474,
+          "popularity": 16,
+          "uri": "spotify:track:7LlQRQ1pRXNWvYjwI3IaK5"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 6,
+          "duration_ms": 628811,
+          "popularity": 10,
+          "uri": "spotify:track:4ZLS0ofTuqUNoG24wxE3Pe"
+        }
+      ]
+    },
+    {
+      "name": "The Bitter Boogie II",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 4,
+          "duration_ms": 251436,
+          "popularity": 11,
+          "uri": "spotify:track:62PiJxjMZeobOuXIkXueiP"
+        }
+      ]
+    },
+    {
+      "name": "The Book",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 4,
+          "duration_ms": 314854,
+          "popularity": 12,
+          "uri": "spotify:track:51qTrrHoAFn10ZSDmGloJX"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 6,
+          "duration_ms": 354128,
+          "popularity": 9,
+          "uri": "spotify:track:43Gg2ItnDmSQMa4dSH42oC"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 3,
+          "duration_ms": 340901,
+          "popularity": 16,
+          "uri": "spotify:track:02JxfUFbl46f6WGe1LO4HZ"
+        }
+      ]
+    },
+    {
+      "name": "The Dripping Tap",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 9,
+          "duration_ms": 1040447,
+          "popularity": 9,
+          "uri": "spotify:track:01cW4evwwnsKfxuSUJSxaX"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 13,
+          "duration_ms": 1027828,
+          "popularity": 7,
+          "uri": "spotify:track:4PcteljnyXJjktzoYPhlA4"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 18,
+          "duration_ms": 754240,
+          "popularity": 20,
+          "uri": "spotify:track:1nSM4Amxd8OfKJ5jQy8EIs"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 1,
+          "duration_ms": 961369,
+          "popularity": 14,
+          "uri": "spotify:track:2CTTyK9PKu3l4NqRzcPz3I"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 1,
+          "duration_ms": 1354290,
+          "popularity": 12,
+          "uri": "spotify:track:6K83EL3nOS7F9xMexbfDli"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 16,
+          "duration_ms": 1166364,
+          "popularity": 12,
+          "uri": "spotify:track:3zHBOqkLTsy98klQ5yKgds"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 1,
+          "duration_ms": 1273681,
+          "popularity": 13,
+          "uri": "spotify:track:3GU27hvV1hFREEbQxuSb2m"
+        }
+      ]
+    },
+    {
+      "name": "The Fourth Colour",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 8,
+          "duration_ms": 502798,
+          "popularity": 8,
+          "uri": "spotify:track:4CC5iJwm7JP6dYF5YvKzqA"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 8,
+          "duration_ms": 511286,
+          "popularity": 17,
+          "uri": "spotify:track:2xuyYm9t1h6Cw3YilBwWtB"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 6,
+          "duration_ms": 320753,
+          "popularity": 11,
+          "uri": "spotify:track:4Ug6sDkv1I6qgHC7TK1sqB"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 13,
+          "duration_ms": 474516,
+          "popularity": 15,
+          "uri": "spotify:track:0XzG3ySqoJ12YnglafEE4F"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 17,
+          "duration_ms": 382497,
+          "popularity": 9,
+          "uri": "spotify:track:1IfqdqRRxxY7C2Z2Oth17e"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 10,
+          "duration_ms": 667912,
+          "popularity": 11,
+          "uri": "spotify:track:3bVycqgrruM1iIzjbdoK2c"
+        }
+      ]
+    },
+    {
+      "name": "The Garden Goblin",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 14,
+          "duration_ms": 240563,
+          "popularity": 7,
+          "uri": "spotify:track:2DLNzTRtFo4U7yGqdra6eM"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 11,
+          "duration_ms": 261042,
+          "popularity": 4,
+          "uri": "spotify:track:2dJa2NC1oW43D9LwS9U43g"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 11,
+          "duration_ms": 239987,
+          "popularity": 19,
+          "uri": "spotify:track:0GJqj9Otn1WXeCeYyvOSAw"
+        },
+        {
+          "album_name": "Live in Vancouver '24",
+          "release_date": "2024-09-12",
+          "track_number": 10,
+          "duration_ms": 203147,
+          "popularity": 8,
+          "uri": "spotify:track:0EW1eGq1JpTA7DBaIobg4g"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 6,
+          "duration_ms": 225433,
+          "popularity": 8,
+          "uri": "spotify:track:25rVktM8xsto9LyV0LsZIa"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 3,
+          "duration_ms": 253630,
+          "popularity": 8,
+          "uri": "spotify:track:5qIWfNNxoY3pOxDUPGMSjo"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 14,
+          "duration_ms": 186522,
+          "popularity": 8,
+          "uri": "spotify:track:3SzrF8ntjSesM9edjaTk9N"
+        }
+      ]
+    },
+    {
+      "name": "The Great Chain of Being",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 3,
+          "duration_ms": 311926,
+          "popularity": 12,
+          "uri": "spotify:track:4tlHrETLuET8ztgf2ETwpK"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 14,
+          "duration_ms": 482443,
+          "popularity": 12,
+          "uri": "spotify:track:69WvNVG6HF8sJc3xiiw44S"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 28,
+          "duration_ms": 166772,
+          "popularity": 16,
+          "uri": "spotify:track:6rRTc3Dzc52GFufmqEUeD3"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 5,
+          "duration_ms": 365384,
+          "popularity": 10,
+          "uri": "spotify:track:4zfa19t8B2HVPe8hB0gHiE"
+        }
+      ]
+    },
+    {
+      "name": "The Grim Reaper",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 8,
+          "duration_ms": 761437,
+          "popularity": 9,
+          "uri": "spotify:track:53p19h1evWNDuQ9i5Cv1Wo"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 12,
+          "duration_ms": 380310,
+          "popularity": 7,
+          "uri": "spotify:track:177IogsNo6sffdA6a4yX8v"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 14,
+          "duration_ms": 508207,
+          "popularity": 10,
+          "uri": "spotify:track:44jthIOKU84DHt3qisk7A7"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 15,
+          "duration_ms": 415240,
+          "popularity": 14,
+          "uri": "spotify:track:1VY8Nf2ul6KYZppy0tH5wm"
+        }
+      ]
+    },
+    {
+      "name": "The Lord of Lightning",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 23,
+          "duration_ms": 381663,
+          "popularity": 11,
+          "uri": "spotify:track:2QjX4soIrUSMcWsUgGg93x"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 7,
+          "duration_ms": 335766,
+          "popularity": 23,
+          "uri": "spotify:track:2LF697rQd2FewTD2ACZ8SR"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 14,
+          "duration_ms": 311879,
+          "popularity": 9,
+          "uri": "spotify:track:0pKwSdx7fsecFg4JVqDxVn"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 5,
+          "duration_ms": 316047,
+          "popularity": 11,
+          "uri": "spotify:track:0FRfT6e0fIrMuyOPrDL3lv"
+        }
+      ]
+    },
+    {
+      "name": "The Reticent Raconteur",
+      "performances": [
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 22,
+          "duration_ms": 42696,
+          "popularity": 10,
+          "uri": "spotify:track:5nQ2jVSt2KoIOWl1ZwYRFx"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 6,
+          "duration_ms": 37108,
+          "popularity": 21,
+          "uri": "spotify:track:3OGfTTRQz6LF23ypiCWLkw"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 13,
+          "duration_ms": 59321,
+          "popularity": 8,
+          "uri": "spotify:track:5rZCLocR8OLx5hQKWVt5ZK"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 4,
+          "duration_ms": 64392,
+          "popularity": 9,
+          "uri": "spotify:track:0Yqfoh3DUy4fcxLRMAWpDV"
+        }
+      ]
+    },
+    {
+      "name": "The River",
+      "performances": [
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 17,
+          "duration_ms": 810691,
+          "popularity": 18,
+          "uri": "spotify:track:2Peyd47XhxCzLoOSbOI4u2"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​8​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 7,
+          "duration_ms": 1081595,
+          "popularity": 13,
+          "uri": "spotify:track:7LS5iwyeZCvG2Cv3e28Fxv"
+        },
+        {
+          "album_name": "Live in Philadelphia '24",
+          "release_date": "2024-08-27",
+          "track_number": 10,
+          "duration_ms": 1689199,
+          "popularity": 14,
+          "uri": "spotify:track:6uiZ1reb9WmZatrpvwd8I3"
+        },
+        {
+          "album_name": "Live in D.C. '24",
+          "release_date": "2024-08-15",
+          "track_number": 8,
+          "duration_ms": 1064550,
+          "popularity": 12,
+          "uri": "spotify:track:0m5bVKxUtnix4nnEIe2ybK"
+        }
+      ]
+    },
+    {
+      "name": "The Silver Cord",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 12,
+          "duration_ms": 765687,
+          "popularity": 5,
+          "uri": "spotify:track:3ndQSGVcs7gOaflu1fBCSu"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 2,
+          "duration_ms": 1003840,
+          "popularity": 17,
+          "uri": "spotify:track:00LJOsl7TsLUgvhpSsXuWC"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 15,
+          "duration_ms": 411920,
+          "popularity": 21,
+          "uri": "spotify:track:4MUNICD3fHiWRyLU3i5mDO"
+        },
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 20,
+          "duration_ms": 878200,
+          "popularity": 20,
+          "uri": "spotify:track:5vpQbAqcghAnzw5CFC4nvM"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 14,
+          "duration_ms": 935824,
+          "popularity": 10,
+          "uri": "spotify:track:2vEYrvsaynhgBLNqa0INHq"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 2,
+          "duration_ms": 1046761,
+          "popularity": 11,
+          "uri": "spotify:track:64uWvrQ5om2GvIOtdXLVQu"
+        }
+      ]
+    },
+    {
+      "name": "Theia",
+      "performances": [
+        {
+          "album_name": "Live in Houston '24",
+          "release_date": "2024-11-16",
+          "track_number": 11,
+          "duration_ms": 652150,
+          "popularity": 6,
+          "uri": "spotify:track:6zgUDFEIHrcxL7iT1MeUgh"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 14,
+          "duration_ms": 676199,
+          "popularity": 4,
+          "uri": "spotify:track:6Qh4iBDkPI5aniapdfEIx2"
+        },
+        {
+          "album_name": "Live in San Francisco '24",
+          "release_date": "2024-11-06",
+          "track_number": 1,
+          "duration_ms": 1069181,
+          "popularity": 18,
+          "uri": "spotify:track:1b1a259Ga3GBQRs2gg9gdY"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 16,
+          "duration_ms": 590123,
+          "popularity": 18,
+          "uri": "spotify:track:5wRTMC4UP5eQeHCk4nwqxJ"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 16,
+          "duration_ms": 674864,
+          "popularity": 10,
+          "uri": "spotify:track:5S5xeKyoeN1ddCyDgJqXGM"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 13,
+          "duration_ms": 742796,
+          "popularity": 9,
+          "uri": "spotify:track:2k93EePaXW7qR9c4TsNbW1"
+        },
+        {
+          "album_name": "Live in Richmond '24",
+          "release_date": "2024-08-28",
+          "track_number": 2,
+          "duration_ms": 861545,
+          "popularity": 10,
+          "uri": "spotify:track:3p5xWza33QxYVxksxRvWia"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 1,
+          "duration_ms": 949582,
+          "popularity": 16,
+          "uri": "spotify:track:1t8GDKmeKFMHnWsFERJqZx"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 1,
+          "duration_ms": 724501,
+          "popularity": 11,
+          "uri": "spotify:track:0QsyrCKJGYoSn0CFslsVYO"
+        }
+      ]
+    },
+    {
+      "name": "This Thing",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 11,
+          "duration_ms": 400120,
+          "popularity": 11,
+          "uri": "spotify:track:45zsW4qgx3zKi2q27u5zp7"
+        },
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 7,
+          "duration_ms": 393362,
+          "popularity": 8,
+          "uri": "spotify:track:66i98HUpq20MGdy9lHxh7e"
+        },
+        {
+          "album_name": "Live in Phoenix '24",
+          "release_date": "2024-11-09",
+          "track_number": 6,
+          "duration_ms": 375067,
+          "popularity": 18,
+          "uri": "spotify:track:3flmztXhdxCfRmqx3mIK4B"
+        },
+        {
+          "album_name": "Live in Los Angeles '24",
+          "release_date": "2024-11-01",
+          "track_number": 5,
+          "duration_ms": 450641,
+          "popularity": 16,
+          "uri": "spotify:track:3Lf8zYkxKmaKBplBotohVX"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 13,
+          "duration_ms": 453280,
+          "popularity": 14,
+          "uri": "spotify:track:1uiX3FlS0oTnZhOaYIQd9D"
+        },
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 18,
+          "duration_ms": 346204,
+          "popularity": 10,
+          "uri": "spotify:track:1MRcgshDp7am8IbYGgAR0I"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 10,
+          "duration_ms": 500924,
+          "popularity": 16,
+          "uri": "spotify:track:2kF04KqHmzniiUYjPHqYxF"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 6,
+          "duration_ms": 333951,
+          "popularity": 13,
+          "uri": "spotify:track:7a7nBfaGLJKiZUtU5a5yz0"
+        }
+      ]
+    },
+    {
+      "name": "Trapdoor",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 14,
+          "duration_ms": 240887,
+          "popularity": 7,
+          "uri": "spotify:track:06MiAVR2uZ0W1gzrnIPjp1"
+        },
+        {
+          "album_name": "Live in Stanford '24",
+          "release_date": "2024-11-04",
+          "track_number": 10,
+          "duration_ms": 272572,
+          "popularity": 19,
+          "uri": "spotify:track:4IaGYcDQvQtQajFzqmTskO"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 9,
+          "duration_ms": 313819,
+          "popularity": 10,
+          "uri": "spotify:track:01AdGsV9evWymIWGXI1oGF"
+        },
+        {
+          "album_name": "Live in Maine '24",
+          "release_date": "2024-08-20",
+          "track_number": 15,
+          "duration_ms": 411256,
+          "popularity": 11,
+          "uri": "spotify:track:7rbO8NYHMucen6pm8xi8X6"
+        }
+      ]
+    },
+    {
+      "name": "Treaty (Yothu Yindi cover with King Stingray)",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 22,
+          "duration_ms": 326756,
+          "popularity": 11,
+          "uri": "spotify:track:2lChzHtubT6A7EOxXLtZJ2"
+        }
+      ]
+    },
+    {
+      "name": "Vegemite",
+      "performances": [
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 26,
+          "duration_ms": 186537,
+          "popularity": 15,
+          "uri": "spotify:track:5KzRXSnrrDtPNnp3MSMkzC"
+        }
+      ]
+    },
+    {
+      "name": "Venusian 1",
+      "performances": [
+        {
+          "album_name": "Live at The Gorge '24",
+          "release_date": "2024-09-14",
+          "track_number": 25,
+          "duration_ms": 457740,
+          "popularity": 16,
+          "uri": "spotify:track:29GIKV8rXaZBmYjcSxw7Mf"
+        },
+        {
+          "album_name": "Live in St. Louis '24",
+          "release_date": "2024-09-05",
+          "track_number": 2,
+          "duration_ms": 195350,
+          "popularity": 11,
+          "uri": "spotify:track:3heQbn8nMsfhXzdOtil1AC"
+        }
+      ]
+    },
+    {
+      "name": "Venusian 2",
+      "performances": [
+        {
+          "album_name": "Live in Miami '24",
+          "release_date": "2024-11-21",
+          "track_number": 12,
+          "duration_ms": 197856,
+          "popularity": 10,
+          "uri": "spotify:track:5Goe3DgBBYrFna7vjhSyhh"
+        },
+        {
+          "album_name": "Live in Albuquerque '24",
+          "release_date": "2024-11-10",
+          "track_number": 4,
+          "duration_ms": 338557,
+          "popularity": 6,
+          "uri": "spotify:track:6siei00bBcttbEFVKYQ0PP"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 16,
+          "duration_ms": 356988,
+          "popularity": 12,
+          "uri": "spotify:track:52j0VfpluOyDnj7kpZvH75"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 2,
+          "duration_ms": 275226,
+          "popularity": 11,
+          "uri": "spotify:track:2qlBc7fsTjMqifuyozA7DF"
+        }
+      ]
+    },
+    {
+      "name": "Vomit Coffin",
+      "performances": [
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 5,
+          "duration_ms": 144696,
+          "popularity": 8,
+          "uri": "spotify:track:0f8UVCQiBIqQdDjNoYSyQN"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 22,
+          "duration_ms": 138630,
+          "popularity": 11,
+          "uri": "spotify:track:649wLpLPKSw7Yh6HdAx5Qs"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 24,
+          "duration_ms": 135897,
+          "popularity": 14,
+          "uri": "spotify:track:20EYnjR8swOwEUTRyt2tAh"
+        }
+      ]
+    },
+    {
+      "name": "Wah Wah",
+      "performances": [
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 4,
+          "duration_ms": 473807,
+          "popularity": 12,
+          "uri": "spotify:track:3Jt3p82YA4cmDAnQLxVSn5"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 5,
+          "duration_ms": 588222,
+          "popularity": 12,
+          "uri": "spotify:track:6nfIg5ukFhwxOpbX6Lj2XS"
+        },
+        {
+          "album_name": "Live in Boston '24",
+          "release_date": "2024-08-19",
+          "track_number": 14,
+          "duration_ms": 612075,
+          "popularity": 9,
+          "uri": "spotify:track:51sHml4TnxzMlSL4x1nRJk"
+        }
+      ]
+    },
+    {
+      "name": "We're Doin It Together",
+      "performances": [
+        {
+          "album_name": "Live in Minneapolis '24",
+          "release_date": "2024-09-03",
+          "track_number": 16,
+          "duration_ms": 283438,
+          "popularity": 11,
+          "uri": "spotify:track:7nlt0uOIJvioEMYBronVGE"
+        }
+      ]
+    },
+    {
+      "name": "Welcome to an Altered Future",
+      "performances": [
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Late Show]",
+          "release_date": "2024-10-01",
+          "track_number": 15,
+          "duration_ms": 43047,
+          "popularity": 8,
+          "uri": "spotify:track:4yMXRmRfeiyfwXsdPadq6W"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 20,
+          "duration_ms": 51497,
+          "popularity": 13,
+          "uri": "spotify:track:3Fc4pP9tq7r0haIbF6ooX4"
+        }
+      ]
+    },
+    {
+      "name": "Witchcraft",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 3,
+          "duration_ms": 340010,
+          "popularity": 8,
+          "uri": "spotify:track:6GRq1ZWHtZGiBwvKr4g0FI"
+        },
+        {
+          "album_name": "Live in Austin '24",
+          "release_date": "2024-11-15",
+          "track_number": 19,
+          "duration_ms": 371019,
+          "popularity": 9,
+          "uri": "spotify:track:2FjldeJpquRbrXgwyXWLRQ"
+        },
+        {
+          "album_name": "Live in Las Vegas '24",
+          "release_date": "2024-11-08",
+          "track_number": 17,
+          "duration_ms": 384684,
+          "popularity": 6,
+          "uri": "spotify:track:5Ij14fDjuW26pPZtrYGHh8"
+        },
+        {
+          "album_name": "Live in San Diego '24",
+          "release_date": "2024-11-02",
+          "track_number": 1,
+          "duration_ms": 456190,
+          "popularity": 22,
+          "uri": "spotify:track:5KpligWqrUyuk3prKY42zk"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 12,
+          "duration_ms": 373185,
+          "popularity": 14,
+          "uri": "spotify:track:7tt75ToMEmbt3Ej6d4mB7I"
+        },
+        {
+          "album_name": "Live in Oregon '24",
+          "release_date": "2024-09-11",
+          "track_number": 11,
+          "duration_ms": 410368,
+          "popularity": 11,
+          "uri": "spotify:track:4Pjh8T0eOv75ClSpGKaQKv"
+        },
+        {
+          "album_name": "Live in Milwaukee '24",
+          "release_date": "2024-09-04",
+          "track_number": 12,
+          "duration_ms": 399677,
+          "popularity": 8,
+          "uri": "spotify:track:5i1UVmQtihOoY6nwehyr5p"
+        },
+        {
+          "album_name": "Live in Asheville '24",
+          "release_date": "2024-08-30",
+          "track_number": 9,
+          "duration_ms": 414645,
+          "popularity": 10,
+          "uri": "spotify:track:0znFFeq0W5odmQra0V3jJI"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 7,
+          "duration_ms": 360306,
+          "popularity": 13,
+          "uri": "spotify:track:7FiFjc2aQt7Zi72vl19Uuf"
+        },
+        {
+          "album_name": "Live in Toronto '24",
+          "release_date": "2024-08-21",
+          "track_number": 4,
+          "duration_ms": 313739,
+          "popularity": 11,
+          "uri": "spotify:track:2RbyqgOTy2EblVmjDzGOdQ"
+        }
+      ]
+    },
+    {
+      "name": "Work This Time",
+      "performances": [
+        {
+          "album_name": "Live in Atlanta '24",
+          "release_date": "2024-11-19",
+          "track_number": 13,
+          "duration_ms": 610815,
+          "popularity": 12,
+          "uri": "spotify:track:5zvtttpUGbvteaWaDO89Um"
+        },
+        {
+          "album_name": "Live in Arkansas '24",
+          "release_date": "2024-11-13",
+          "track_number": 10,
+          "duration_ms": 706865,
+          "popularity": 6,
+          "uri": "spotify:track:4EjemUAGMZtLKX2kwNg8Wd"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 15,
+          "duration_ms": 394830,
+          "popularity": 11,
+          "uri": "spotify:track:4WBuefEUfoD6DCW93MbarT"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​16​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 8,
+          "duration_ms": 587850,
+          "popularity": 15,
+          "uri": "spotify:track:31Phk1Hoda4CG1d0dXoOpl"
+        },
+        {
+          "album_name": "Live in Nashville '24",
+          "release_date": "2024-08-31",
+          "track_number": 6,
+          "duration_ms": 542557,
+          "popularity": 13,
+          "uri": "spotify:track:4D9XnKQL836rnnyGkoEyqG"
+        },
+        {
+          "album_name": "Live in Kentucky '24",
+          "release_date": "2024-08-25",
+          "track_number": 19,
+          "duration_ms": 503715,
+          "popularity": 16,
+          "uri": "spotify:track:39dhdAzGwbqEmrAGrpVxVm"
+        }
+      ]
+    },
+    {
+      "name": "You Can Be Your Silhouette",
+      "performances": [
+        {
+          "album_name": "Live in New Orleans '24",
+          "release_date": "2024-11-17",
+          "track_number": 15,
+          "duration_ms": 380132,
+          "popularity": 6,
+          "uri": "spotify:track:2DNR5LqG7ypYbUic1L4rcR"
+        },
+        {
+          "album_name": "Live at Red Rocks Amphitheatre, Morrison, CO (9​/​9​/​24) [Early Show]",
+          "release_date": "2024-10-01",
+          "track_number": 11,
+          "duration_ms": 561602,
+          "popularity": 12,
+          "uri": "spotify:track:6YGP20J0hkPqMrUvjZblSP"
+        },
+        {
+          "album_name": "Live at Forest Hills Stadium, Queens, NY (8​/​17​/​24)",
+          "release_date": "2024-10-01",
+          "track_number": 7,
+          "duration_ms": 426426,
+          "popularity": 14,
+          "uri": "spotify:track:5EQFmBGglMVHiTIcAJ5vuM"
+        },
+        {
+          "album_name": "Live in Chicago '24",
+          "release_date": "2024-09-01",
+          "track_number": 10,
+          "duration_ms": 361628,
+          "popularity": 14,
+          "uri": "spotify:track:0v6WFZG58FhikBPuRRua6C"
+        },
+        {
+          "album_name": "Live in Detroit '24",
+          "release_date": "2024-08-23",
+          "track_number": 7,
+          "duration_ms": 591285,
+          "popularity": 12,
+          "uri": "spotify:track:3hM6LUI9nEaGj1quKNbnVF"
+        }
+      ]
+    }
+  ]
+}

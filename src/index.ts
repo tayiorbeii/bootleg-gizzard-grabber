@@ -6,7 +6,7 @@ import {
   fetchDetailedAlbumData,
   createSimplifiedOutput,
   getTopTracksFromAlbum,
-} from "./fetchAlbumAndTrackData.js";
+} from "./fetchers/fetchAlbumAndTrackData.js";
 import { SimplifiedAlbum } from "./fetchers/types.js";
 
 async function main(): Promise<void> {
@@ -39,11 +39,18 @@ async function main(): Promise<void> {
 
     // Create simplified output
     const outputData = createSimplifiedOutput(artist, detailedAlbumData);
+
+    // Create data directory if it doesn't exist
+    const fs = require("fs");
+    if (!fs.existsSync("./data")) {
+      fs.mkdirSync("./data");
+    }
+
     writeFileSync(
-      "bootleg_gizzard_24_data.json",
+      "data/bootleg_gizzard_24_data.json",
       JSON.stringify(outputData, null, 2)
     );
-    console.log("\nData has been saved to bootleg_gizzard_24_data.json");
+    console.log("\nData has been saved to data/bootleg_gizzard_24_data.json");
 
     // Display summary
     console.log("\nSummary:");

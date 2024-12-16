@@ -1,25 +1,9 @@
-# ts-script-starter
+# King Gizzard and the Lizard Wizard - Live in '24 Data
 
-A starter project for TypeScript scripts, using suggested configuration from [Total TypeScript](https://www.totaltypescript.com/typescript-and-node).
+This repo includes scripts to fetch and process data from the Spotify API for King Gizzard and the Lizard Wizard's 2024 live albums and tracks.
 
-## Usage
+The cleaned data can be found in the `albums.json` and `songs.json` files inside of `src/data`.
 
-Running `pnpm dev` will start the TypeScript compiler in watch mode and run the script in node. It will re-run the script when changes are made to the source file.
+The `index.ts` file is the entry point for the script. It fetches the `bootleg gizzard` artist data, then the albums, then their tracks. This data is dumped to `bootleg_gizzard_24_data.json`. 
 
-```bash
-pnpm dev
-```
-
-The `--enable-source-maps` flag in the `dev:node` script is used to point to the TS files if any errors occur.
-
-Running `pnpm build` will compile the TypeScript files and output the JavaScript files to the `dist` directory.
-
-```bash
-pnpm build
-```
-
-Running `pnpm start` will run the compiled JavaScript file.
-
-```bash
-pnpm start
-```
+The `remixJson.ts` script cleans up some track names for the source data, and creates new `albums.json` and `songs.json` files, which will be used to seed a database later.
